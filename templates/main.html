@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DSA</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <link rel="stylesheet" href="../static/prism.css">
+    <script src="../static/prism.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    {#
+    <link rel="stylesheet" href="{{ url_for('pygments_css') }}">#}
+    <script>
+        $(".tabs").tabs("option", "collapsible", true);
+        $(function () {
+            $(".tabs").tabs({
+                active: false,
+                collapsible: true
+            });
+        });
+    </script>
+    <style>
+        pre[class*="language-"] {
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+
+<body>
+<script>
+    function open_file(file_name) {
+        $.get(file_name).done(function () {
+            return;
+        });
+    }
+
+    //     <!--
+    //     {#
+        //         $.post("/request", selected_titles)#
+        //     } {#.done(function(recom_lst) {#} {#
+        //                     console.log(recom_lst)#
+        //                 } {#
+        //                     $('#recom-results').empty();#
+        //                 } {##} {#
+        //                     for (idx in recom_lst) {#} {#
+        //                         console.log(recom_lst[idx][0] + ' ' + recom_lst[idx][1])#
+        //                     } {##} {#
+        //                         $('#recom-results').append(`<a target="_blank" href="${recom_lst[idx][1]}" class="list-group-item align">#}
+    // {#            <span class="image-parent right">#}
+    // {#              <img src="${recom_lst[idx][2]}" class="img-fluid" alt="quixote">#}
+    // {#          </span>#}
+    // {#        <span>${recom_lst[idx][0]}#}
+    // {#        <span>#}
+    // {##}
+    // {#        </a>`)#
+        //                     } {#}#
+    // }
+</script>
+
+{# TOPIC TITLE #}
+{#<a href="/config">||&nbsp&nbspConfig&nbsp&nbsp||</a>#}
+<a href="/config">&nbsp&nbsp||config||&nbsp&nbsp</a> {% for topic_name in data['topics'] %}
+    <a href="/{{ topic_name }}">{{ topic_name }}&nbsp&nbsp&nbsp&nbsp</a> {% endfor %}
+{#{% for topic_name, questions in data.items() %}#}
+
+<h1>{{ data['current_topic'] }}</h1>
+{% for question_name, question in data['questions'].items() | reverse %}
+
+    {#    Checking for hr  #}
+    {% if question_name != '-' %}
+
+
+        {#    Question Name                                                                #}
+        <a target="_blank" href="https://www.google.com/search?q={{ question_name }} +  code">
+            <h3 style="{{ question_name|style }}">{{ loop.index }}. {{ question_name }}</h3>
+        </a>
+        {# <h5>{{ question.path }}</h5>#}
+
+        {#    Sub Question name                                                                   #}
+        <div class="tabs">
+            <ul>
+                {% for sub_question in question['sub_questions'] %}
+                    <li>
+                        <a href="#tabs-{{ sub_question.id }}">{{ sub_question.sub_question_name }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+
+
+
+            {% for sub_question in question['sub_questions'] %}
+                <div id="tabs-{{ sub_question.id }}">
+                    <small><a onclick="open_file('{{ data.current_topic }}/{{ sub_question.id }}');return false;"
+                              href="#">{{ sub_question.path }}</a></small>
+                    <small>{{ sub_question.info | safe }}</small>
+                    <small></small> {% if (sub_question.path|is_java_file) %}
+                    <pre><code class="language-java">{{ sub_question.code }}</code></pre> {% else %}
+                    <pre><code class="language-python">{{ sub_question.code }}</code></pre> {% endif %}
+                    </small>
+                </div>
+            {% endfor %}
+
+        </div>
+    {% else %}
+        <br><hr><hr>
+
+    {% endif %}
+
+{% endfor %} {# <br>#} {#{% endfor %}#}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> {% for topic_name in data['topics'] %}
+    <a href="/{{ topic_name }}">{{ topic_name }}&nbsp&nbsp</a> {% endfor %}
+
+<br>
+<br>
+
+</body>
+
+</html>

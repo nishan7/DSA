@@ -1,0 +1,4749 @@
+{
+  "Misc": {
+    "LRU": {
+      "question_name": "LRU",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Misc\\LRU\\LRU.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Java": {
+    "Inheritance": {
+      "question_name": "Inheritance",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Inheritance.java",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hybrid",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Hybrid.java"
+        },
+        {
+          "sub_question_name": "Multiple",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Multiple.java"
+        },
+        {
+          "sub_question_name": "Hierarchical",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Hierarchical.java"
+        },
+        {
+          "sub_question_name": "Multilevel",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Multilevel.java"
+        },
+        {
+          "sub_question_name": "Single",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Inheritance\\Single.java"
+        }
+      ],
+      "is_blank": true
+    },
+    "Polymorphism": {
+      "question_name": "Polymorphism",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Java\\Polymorphism\\Polymorphism.java",
+      "sub_questions": [
+        {
+          "sub_question_name": "Function Overriding",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Polymorphism\\Function Overriding.java"
+        },
+        {
+          "sub_question_name": "Function Overloading",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Java\\Polymorphism\\Function Overloading.java"
+        }
+      ],
+      "is_blank": true
+    },
+    "Encapsulation": {
+      "question_name": "Encapsulation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Java\\Encapsulation\\Encapsulation.java",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Constructers": {
+      "question_name": "Constructers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Java\\Constructers\\Constructers.java",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Python": {
+    "Inheritance": {
+      "question_name": "Inheritance",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Inheritance.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hybrid",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Hybrid.py"
+        },
+        {
+          "sub_question_name": "Multiple",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Multiple.py"
+        },
+        {
+          "sub_question_name": "Hierarchical",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Hierarchical.py"
+        },
+        {
+          "sub_question_name": "Multilevel",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Multilevel.py"
+        },
+        {
+          "sub_question_name": "Single",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Inheritance\\Single.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Polymorphism": {
+      "question_name": "Polymorphism",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Python\\Polymorphism\\Polymorphism.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Operator Overloading",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Polymorphism\\Operator Overloading.py"
+        },
+        {
+          "sub_question_name": "Function Overriding",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Python\\Polymorphism\\Function Overriding.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Encapsulation": {
+      "question_name": "Encapsulation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Python\\Encapsulation\\Encapsulation.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Constructers": {
+      "question_name": "Constructers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Python\\Constructers\\Constructers.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "F2F": {},
+  "DP on Trees": {
+    "Maximum Path Sum | from any node to any node": {
+      "question_name": "Maximum Path Sum | from any node to any node",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP on Trees\\Maximum Path Sum  from any node to any node\\Maximum Path Sum  from any node to any node.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Diameter of a Binary Tree": {
+      "question_name": "Diameter of a Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP on Trees\\Diameter of a Binary Tree\\Diameter of a Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Identification": {
+      "question_name": "Identification",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP on Trees\\Identification\\Identification.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "DP": {
+    "Others": {
+      "question_name": "Others",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Others\\Others.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "DP on Grid": {
+      "question_name": "DP on Grid",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\DP on Grid\\DP on Grid.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "DP on Tree": {
+      "question_name": "DP on Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\DP on Tree\\DP on Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kadane's Algorithm": {
+      "question_name": "Kadane's Algorithm",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Kadane's Algorithm\\Kadane's Algorithm.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "List": {
+      "question_name": "List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\List\\List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Fibonacci": {
+      "question_name": "Fibonacci",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Fibonacci\\Fibonacci.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Sum with No Consecutive": {
+      "question_name": "Maximum Sum with No Consecutive",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Maximum Sum with No Consecutive\\Maximum Sum with No Consecutive.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count BST with nkeys": {
+      "question_name": "Count BST with nkeys",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Count BST with nkeys\\Count BST with nkeys.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Variation of Longest Increasing Subsequence": {
+      "question_name": "Variation of Longest Increasing Subsequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Variation of Longest Increasing Subsequence\\Variation of Longest Increasing Subsequence.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Optimal Strategy for a Game": {
+      "question_name": "Optimal Strategy for a Game",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Optimal Strategy for a Game\\Optimal Strategy for a Game.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum Jumps to reach at the end": {
+      "question_name": "Minimum Jumps to reach at the end",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Minimum Jumps to reach at the end\\Minimum Jumps to reach at the end.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Increasing Subsequence Problem": {
+      "question_name": "Longest Increasing Subsequence Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Increasing Subsequence Problem\\Longest Increasing Subsequence Problem.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Efficient Approach",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Increasing Subsequence Problem\\Efficient Approach.py"
+        },
+        {
+          "sub_question_name": "Naive Approach",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Increasing Subsequence Problem\\Naive Approach.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Edit Distance Problem": {
+      "question_name": "Edit Distance Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Edit Distance Problem\\Edit Distance Problem.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "DP Approach",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Edit Distance Problem\\DP Approach.py"
+        },
+        {
+          "sub_question_name": "Naive Approach",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Edit Distance Problem\\Naive Approach.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Min number of jumps to reach the end": {
+      "question_name": "Min number of jumps to reach the end",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Min number of jumps to reach the end\\Min number of jumps to reach the end.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Top Down",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Min number of jumps to reach the end\\Top Down.py"
+        },
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Min number of jumps to reach the end\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Min number of jumps to reach the end\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Mics": {
+      "question_name": "Mics",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Mics\\Mics.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Egg Dropping": {
+      "question_name": "Egg Dropping",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Egg Dropping\\Egg Dropping.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Memoization Optimized",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Egg Dropping\\Memoization Optimized.py"
+        },
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Egg Dropping\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Egg Dropping\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Scrambled String": {
+      "question_name": "Scrambled String",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Scrambled String\\Scrambled String.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Scrambled String\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Scrambled String\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Evaluate Expression to True/Boolean Parenthesization": {
+      "question_name": "Evaluate Expression to True/Boolean Parenthesization",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Evaluate Expression to TrueBoolean Parenthesization\\Evaluate Expression to TrueBoolean Parenthesization.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Evaluate Expression to TrueBoolean Parenthesization\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Evaluate Expression to TrueBoolean Parenthesization\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Palindrome Partitioning": {
+      "question_name": "Palindrome Partitioning",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Palindrome Partitioning\\Palindrome Partitioning.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Palindrome Partitioning\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Palindrome Partitioning\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Matrix Chain Multiplication": {
+      "question_name": "Matrix Chain Multiplication",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Matrix Chain Multiplication\\Matrix Chain Multiplication.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Matrix Chain Multiplication\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Matrix Chain Multiplication\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "MCM": {
+      "question_name": "MCM",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\MCM\\MCM.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "format",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\MCM\\format.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Longest Palindromic Subsequence": {
+      "question_name": "Longest Palindromic Subsequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Palindromic Subsequence\\Longest Palindromic Subsequence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Number of Insertion in a string to make it a Palindrome",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Palindromic Subsequence\\Number of Insertion in a string to make it a Palindrome.py"
+        },
+        {
+          "sub_question_name": "Number of Deletion in a string to make it a Palindrome",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Palindromic Subsequence\\Number of Deletion in a string to make it a Palindrome.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Sequence Pattern Matching": {
+      "question_name": "Sequence Pattern Matching",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Sequence Pattern Matching\\Sequence Pattern Matching.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Linear",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Sequence Pattern Matching\\Linear.py"
+        },
+        {
+          "sub_question_name": "LCS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Sequence Pattern Matching\\LCS.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Longest Repeating Sequence": {
+      "question_name": "Longest Repeating Sequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Repeating Sequence\\Longest Repeating Sequence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Print",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Repeating Sequence\\Print.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Minimum # of deletion and insertion to convert String A to String B": {
+      "question_name": "Minimum # of deletion and insertion to convert String A to String B",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Minimum # of deletion and insertion to convert String A to String B\\Minimum # of deletion and insertion to convert String A to String B.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Shortest Common SuperSequence": {
+      "question_name": "Shortest Common SuperSequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Shortest Common SuperSequence\\Shortest Common SuperSequence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Print SCS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Shortest Common SuperSequence\\Print SCS.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "LCS Print": {
+      "question_name": "LCS Print",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\LCS Print\\LCS Print.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\LCS Print\\Recursive.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Longest Common Substring": {
+      "question_name": "Longest Common Substring",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Substring\\Longest Common Substring.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Substring\\Recursive.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "LCS Variations Part-1 ": {
+      "question_name": "LCS Variations Part-1 ",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\LCS Variations Part-1\\LCS Variations Part-1.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Longest Common Subsequence": {
+      "question_name": "Longest Common Subsequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Subsequence\\Longest Common Subsequence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "LCS TopDown DP",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Subsequence\\LCS TopDown DP.py"
+        },
+        {
+          "sub_question_name": "LCS Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Subsequence\\LCS Memoization.py"
+        },
+        {
+          "sub_question_name": "LCS Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Subsequence\\LCS Recursive.py"
+        },
+        {
+          "sub_question_name": "Introduction",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Longest Common Subsequence\\Introduction.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Unbounded Knapsack CoinChange minimum coins": {
+      "question_name": "Unbounded Knapsack CoinChange minimum coins",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange minimum coins\\Unbounded Knapsack CoinChange minimum coins.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Coin Change: minimum number of coins arr Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange minimum coins\\Coin Change minimum number of coins arr Recursive.py"
+        },
+        {
+          "sub_question_name": "Coin Change: minimum number of coins arr",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange minimum coins\\Coin Change minimum number of coins arr.py"
+        },
+        {
+          "sub_question_name": "Coin Change: minimum number of coins Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange minimum coins\\Coin Change minimum number of coins Recursive.py"
+        },
+        {
+          "sub_question_name": "Coin Change: minimum number of coins",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange minimum coins\\Coin Change minimum number of coins.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Unbounded Knapsack CoinChange no of ways": {
+      "question_name": "Unbounded Knapsack CoinChange no of ways",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange no of ways\\Unbounded Knapsack CoinChange no of ways.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Coin Change: number of ways arr",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange no of ways\\Coin Change number of ways arr.py"
+        },
+        {
+          "sub_question_name": "Coin Change: number of ways Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange no of ways\\Coin Change number of ways Recursive.py"
+        },
+        {
+          "sub_question_name": "Coin Change: number of ways",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack CoinChange no of ways\\Coin Change number of ways.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Unbounded Knapsack Variations": {
+      "question_name": "Unbounded Knapsack Variations",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack Variations\\Unbounded Knapsack Variations.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Maximum ribbon cut",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack Variations\\Maximum ribbon cut.py"
+        },
+        {
+          "sub_question_name": "Rod Cutting arr",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack Variations\\Rod Cutting arr.py"
+        },
+        {
+          "sub_question_name": "Rod cutting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack Variations\\Rod cutting.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Unbounded Knapsack": {
+      "question_name": "Unbounded Knapsack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack\\Unbounded Knapsack.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Unbouded Knapsack array T",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack\\Unbouded Knapsack array T.py"
+        },
+        {
+          "sub_question_name": "Unbounded Knapsack arr Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\Unbounded Knapsack\\Unbounded Knapsack arr Recursive.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "0 - 1 Variations": {
+      "question_name": "0 - 1 Variations",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\0 - 1 Variations.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Target Sum",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Target Sum.py"
+        },
+        {
+          "sub_question_name": "Number of Subset of given difference",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Number of Subset of given difference.py"
+        },
+        {
+          "sub_question_name": "Minimum Subset Sum difference Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Minimum Subset Sum difference Recursive.py"
+        },
+        {
+          "sub_question_name": "Minimum Subset Sum difference",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Minimum Subset Sum difference.py"
+        },
+        {
+          "sub_question_name": "Count of Subset Sum Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Count of Subset Sum Recursive.py"
+        },
+        {
+          "sub_question_name": "Count of Subset Sum",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Count of Subset Sum.py"
+        },
+        {
+          "sub_question_name": "Equal Sum Paritition",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Equal Sum Paritition.py"
+        },
+        {
+          "sub_question_name": "Subset Sum Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Subset Sum Recursive.py"
+        },
+        {
+          "sub_question_name": "Subset Sum",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Subset Sum.py"
+        },
+        {
+          "sub_question_name": "Identification",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 Variations\\Identification.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "0 - 1 knapsack": {
+      "question_name": "0 - 1 knapsack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 knapsack\\0 - 1 knapsack.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Top Down",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 knapsack\\Top Down.py"
+        },
+        {
+          "sub_question_name": "Memoization",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 knapsack\\Memoization.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\DP\\0 - 1 knapsack\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "DP Identification": {
+      "question_name": "DP Identification",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\DP\\DP Identification\\DP Identification.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Heap": {
+    "Max amount of toys that can be purchased with amount K": {
+      "question_name": "Max amount of toys that can be purchased with amount K",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Max amount of toys that can be purchased with amount K\\Max amount of toys that can be purchased with amount K.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge K Sorted Array": {
+      "question_name": "Merge K Sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Merge K Sorted Array\\Merge K Sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Median of a Stream": {
+      "question_name": "Median of a Stream",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Median of a Stream\\Median of a Stream.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Insertion Sort",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Median of a Stream\\Insertion Sort.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "---": {
+      "question_name": "---",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\---\\---.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Check if a Binary Tree is Heap": {
+      "question_name": "Check if a Binary Tree is Heap",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Check if a Binary Tree is Heap\\Check if a Binary Tree is Heap.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Median in a stream of Integers": {
+      "question_name": "Median in a stream of Integers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Median in a stream of Integers\\Median in a stream of Integers.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Smallest range in \"K\" Lists": {
+      "question_name": "Smallest range in \"K\" Lists",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Smallest range in K Lists\\Smallest range in K Lists.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge \"K\" Sorted Linked Lists*": {
+      "question_name": "Merge \"K\" Sorted Linked Lists*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Merge K Sorted Linked Lists\\Merge K Sorted Linked Lists.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reorganize strings": {
+      "question_name": "Reorganize strings",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Reorganize strings\\Reorganize strings.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kth largest sum continuous subarrays": {
+      "question_name": "Kth largest sum continuous subarrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Kth largest sum continuous subarrays\\Kth largest sum continuous subarrays.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sum of Elements between k1 smallest and k2 smallest numbers": {
+      "question_name": "Sum of Elements between k1 smallest and k2 smallest numbers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Sum of Elements between k1 smallest and k2 smallest numbers\\Sum of Elements between k1 smallest and k2 smallest numbers.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Connect Ropes to Minimise the Cost": {
+      "question_name": "Connect Ropes to Minimise the Cost",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Connect Ropes to Minimise the Cost\\Connect Ropes to Minimise the Cost.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "K Closest Points to Origin": {
+      "question_name": "K Closest Points to Origin",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\K Closest Points to Origin\\K Closest Points to Origin.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Frequency Sort": {
+      "question_name": "Frequency Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Frequency Sort\\Frequency Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Top K frequency": {
+      "question_name": "Top K frequency",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Top K frequency\\Top K frequency.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "K Closest Numbers": {
+      "question_name": "K Closest Numbers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\K Closest Numbers\\K Closest Numbers.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Nearly Sorted Array/ K Sorted Array*": {
+      "question_name": "Nearly Sorted Array/ K Sorted Array*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Nearly Sorted Array K Sorted Array\\Nearly Sorted Array K Sorted Array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Merge K sorted Arrays",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Nearly Sorted Array K Sorted Array\\Merge K sorted Arrays.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "K Smallest Elements": {
+      "question_name": "K Smallest Elements",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\K Smallest Elements\\K Smallest Elements.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "K largest Elements": {
+      "question_name": "K largest Elements",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\K largest Elements\\K largest Elements.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "kth Largest Element": {
+      "question_name": "kth Largest Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\kth Largest Element\\kth Largest Element.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "implemented heap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\kth Largest Element\\implemented heap.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "kth Smallest Element": {
+      "question_name": "kth Smallest Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\kth Smallest Element\\kth Smallest Element.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "implemented heap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\kth Smallest Element\\implemented heap.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Implement Heap": {
+      "question_name": "Implement Heap",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Implement Heap.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Heap Sort",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Heap Sort.py"
+        },
+        {
+          "sub_question_name": "Max Heap Lib",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Max Heap Lib.py"
+        },
+        {
+          "sub_question_name": "Min Heap Lib",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Min Heap Lib.py"
+        },
+        {
+          "sub_question_name": "Max Heap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Max Heap.py"
+        },
+        {
+          "sub_question_name": "Min Heap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Heap\\Implement Heap\\Min Heap.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Greedy Algorithms": {
+    "LRU": {
+      "question_name": "LRU",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\LRU\\LRU.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Shortest Job First (or SJF) CPU Scheduling": {
+      "question_name": "Shortest Job First (or SJF) CPU Scheduling",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Shortest Job First (or SJF) CPU Scheduling\\Shortest Job First (or SJF) CPU Scheduling.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum sum of absolute difference of pairs of two arrays": {
+      "question_name": "Minimum sum of absolute difference of pairs of two arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Minimum sum of absolute difference of pairs of two arrays\\Minimum sum of absolute difference of pairs of two arrays.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum sum of absolute difference of an array": {
+      "question_name": "Maximum sum of absolute difference of an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximum sum of absolute difference of an array\\Maximum sum of absolute difference of an array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Maximize sum of consecutive differences in a circular array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximum sum of absolute difference of an array\\Maximize sum of consecutive differences in a circular array.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Maximize the sum of arr[i]*i": {
+      "question_name": "Maximize the sum of arr[i]*i",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximize the sum of arr[i]i\\Maximize the sum of arr[i]i.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximize array sum after K negations": {
+      "question_name": "Maximize array sum after K negations",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximize array sum after K negations\\Maximize array sum after K negations.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Heap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximize array sum after K negations\\Heap.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximize array sum after K negations\\Sorting.py"
+        },
+        {
+          "sub_question_name": "Simple",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximize array sum after K negations\\Simple.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Maximum product subset of an array": {
+      "question_name": "Maximum product subset of an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximum product subset of an array\\Maximum product subset of an array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find maximum meetings in one room": {
+      "question_name": "Find maximum meetings in one room",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Find maximum meetings in one room\\Find maximum meetings in one room.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Island Survival": {
+      "question_name": "Island Survival",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Island Survival\\Island Survival.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum Cost to cut a board into squares": {
+      "question_name": "Minimum Cost to cut a board into squares",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Minimum Cost to cut a board into squares\\Minimum Cost to cut a board into squares.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum Cash Flow": {
+      "question_name": "Minimum Cash Flow",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Minimum Cash Flow\\Minimum Cash Flow.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Max and Min N candies": {
+      "question_name": "Max and Min N candies",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Max and Min N candies\\Max and Min N candies.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Stocks if i stocks can be bought on i-th day": {
+      "question_name": "Maximum Stocks if i stocks can be bought on i-th day",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximum Stocks if i stocks can be bought on i-th day\\Maximum Stocks if i stocks can be bought on i-th day.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum Number of Platforms/trains/systems": {
+      "question_name": "Minimum Number of Platforms/trains/systems",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Minimum Number of Platformstrainssystems\\Minimum Number of Platformstrainssystems.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Train in a Station": {
+      "question_name": "Maximum Train in a Station",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Maximum Train in a Station\\Maximum Train in a Station.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "N meetings in a room": {
+      "question_name": "N meetings in a room",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\N meetings in a room\\N meetings in a room.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Coin Piles": {
+      "question_name": "Coin Piles",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Coin Piles\\Coin Piles.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Job Sequencing": {
+      "question_name": "Job Sequencing",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Job Sequencing\\Job Sequencing.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Fractional Knapsack": {
+      "question_name": "Fractional Knapsack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Greedy Algorithms\\Fractional Knapsack\\Fractional Knapsack.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Binary Tree": {
+    "Bottom View of Binary Tree": {
+      "question_name": "Bottom View of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Bottom View of Binary Tree\\Bottom View of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Top View of Binary Tree": {
+      "question_name": "Top View of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Top View of Binary Tree\\Top View of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Vertical Traversal of Binary Tree": {
+      "question_name": "Vertical Traversal of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Vertical Traversal of Binary Tree\\Vertical Traversal of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Vertical Sum in a Binary Tree": {
+      "question_name": "Vertical Sum in a Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Vertical Sum in a Binary Tree\\Vertical Sum in a Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Pair Sum with given BST": {
+      "question_name": "Pair Sum with given BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Pair Sum with given BST\\Pair Sum with given BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Fix BST with Two Nodes Swapped": {
+      "question_name": "Fix BST with Two Nodes Swapped",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Fix BST with Two Nodes Swapped\\Fix BST with Two Nodes Swapped.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check for BST": {
+      "question_name": "Check for BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Check for BST\\Check for BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find Kth Smallest in BST": {
+      "question_name": "Find Kth Smallest in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Find Kth Smallest in BST\\Find Kth Smallest in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Ceiling on the left side in an array": {
+      "question_name": "Ceiling on the left side in an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Ceiling on the left side in an array\\Ceiling on the left side in an array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The ceiling of a key in BST": {
+      "question_name": "The ceiling of a key in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\The ceiling of a key in BST\\The ceiling of a key in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "TreeSet & TreeMap in Java": {
+      "question_name": "TreeSet & TreeMap in Java",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\TreeSet & TreeMap in Java\\TreeSet & TreeMap in Java.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "BST Introduction": {
+      "question_name": "BST Introduction",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\BST Introduction\\BST Introduction.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Red Black Tree": {
+      "question_name": "Red Black Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Red Black Tree\\Red Black Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "AVL Tree": {
+      "question_name": "AVL Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\AVL Tree\\AVL Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Self Balancing BST": {
+      "question_name": "Self Balancing BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Self Balancing BST\\Self Balancing BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Floor in BST": {
+      "question_name": "Floor in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Floor in BST\\Floor in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Deletion in BST": {
+      "question_name": "Deletion in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Deletion in BST\\Deletion in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Insertion in BST": {
+      "question_name": "Insertion in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Insertion in BST\\Insertion in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Travesal": {
+      "question_name": "Travesal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Travesal\\Travesal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "postorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Travesal\\postorder.py"
+        },
+        {
+          "sub_question_name": "preorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Travesal\\preorder.py"
+        },
+        {
+          "sub_question_name": "inorder iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Travesal\\inorder iterative.py"
+        },
+        {
+          "sub_question_name": "inorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Travesal\\inorder.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Implementation of Search in BST": {
+      "question_name": "Implementation of Search in BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Tree\\Implementation of Search in BST\\Implementation of Search in BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Tree": {
+    "Serialize and Deserialize a Binary tree": {
+      "question_name": "Serialize and Deserialize a Binary tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Serialize and Deserialize a Binary tree\\Serialize and Deserialize a Binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Burn A Binary Tree from a Leaf": {
+      "question_name": "Burn A Binary Tree from a Leaf",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Burn A Binary Tree from a Leaf\\Burn A Binary Tree from a Leaf.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "LCA problem with an efficient solution": {
+      "question_name": "LCA problem with an efficient solution",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\LCA problem with an efficient solution\\LCA problem with an efficient solution.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The diameter of a Binary Tree": {
+      "question_name": "The diameter of a Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\The diameter of a Binary Tree\\The diameter of a Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Tree Traversal Spiral Form": {
+      "question_name": "Tree Traversal Spiral Form",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Tree Traversal Spiral Form\\Tree Traversal Spiral Form.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Construct Binary Tree from Inorder and Preorder": {
+      "question_name": "Construct Binary Tree from Inorder and Preorder",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Construct Binary Tree from Inorder and Preorder\\Construct Binary Tree from Inorder and Preorder.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Convert Binary Tree to Doubly Linked List": {
+      "question_name": "Convert Binary Tree to Doubly Linked List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Convert Binary Tree to Doubly Linked List\\Convert Binary Tree to Doubly Linked List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Width of Binary Tree": {
+      "question_name": "Maximum Width of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Maximum Width of Binary Tree\\Maximum Width of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check for Balanced Binary Tree": {
+      "question_name": "Check for Balanced Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Check for Balanced Binary Tree\\Check for Balanced Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Children Sum Property": {
+      "question_name": "Children Sum Property",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Children Sum Property\\Children Sum Property.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print Left View of Binary Tree": {
+      "question_name": "Print Left View of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Print Left View of Binary Tree\\Print Left View of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print Nodes at K distance": {
+      "question_name": "Print Nodes at K distance",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Print Nodes at K distance\\Print Nodes at K distance.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Height of Binary Tree": {
+      "question_name": "Height of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Height of Binary Tree\\Height of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum in Binary Tree": {
+      "question_name": "Maximum in Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Maximum in Binary Tree\\Maximum in Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Size of Binary Tree": {
+      "question_name": "Size of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Size of Binary Tree\\Size of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Binary search in a given array?": {
+      "question_name": "Binary search in a given array?",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Binary search in a given array\\Binary search in a given array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count Nodes in a complete Binary Tree": {
+      "question_name": "Count Nodes in a complete Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Count Nodes in a complete Binary Tree\\Count Nodes in a complete Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count a number of leaf nodes in a given binary tree?": {
+      "question_name": "Count a number of leaf nodes in a given binary tree?",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Tree\\Count a number of leaf nodes in a given binary tree\\Count a number of leaf nodes in a given binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Binary Trees": {
+    "Tree Isomorphism Problem": {
+      "question_name": "Tree Isomorphism Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Tree Isomorphism Problem\\Tree Isomorphism Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find all Duplicate subtrees in a Binary tree*": {
+      "question_name": "Find all Duplicate subtrees in a Binary tree*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find all Duplicate subtrees in a Binary tree\\Find all Duplicate subtrees in a Binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kth Ancestor of Node in a Binary tree": {
+      "question_name": "Kth Ancestor of Node in a Binary tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Kth Ancestor of Node in a Binary tree\\Kth Ancestor of Node in a Binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find distance between 2 Nodes in a Binary tree": {
+      "question_name": "Find distance between 2 Nodes in a Binary tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find distance between 2 Nodes in a Binary tree\\Find distance between 2 Nodes in a Binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find LCA in a Binary tree": {
+      "question_name": "Find LCA in a Binary tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find LCA in a Binary tree\\Find LCA in a Binary tree.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Better",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find LCA in a Binary tree\\Better.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Print all \"K\" Sum paths in a Binary tree": {
+      "question_name": "Print all \"K\" Sum paths in a Binary tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Print all K Sum paths in a Binary tree\\Print all K Sum paths in a Binary tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Sum of Nodes in Binary tree such that NO two are adjacent": {
+      "question_name": "Maximum Sum of Nodes in Binary tree such that NO two are adjacent",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Maximum Sum of Nodes in Binary tree such that NO two are adjacent\\Maximum Sum of Nodes in Binary tree such that NO two are adjacent.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Pairs",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Maximum Sum of Nodes in Binary tree such that NO two are adjacent\\Pairs.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Maximum Sum of Nodes in Binary tree such that NO two are adjacent\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find Largest subtree sum in a tree": {
+      "question_name": "Find Largest subtree sum in a tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find Largest subtree sum in a tree\\Find Largest subtree sum in a tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if given graph is tree or Not*": {
+      "question_name": "Check if given graph is tree or Not*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if given graph is tree or Not\\Check if given graph is tree or Not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sum of Nodes on the Longest path from root to leaf Node": {
+      "question_name": "Sum of Nodes on the Longest path from root to leaf Node",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Sum of Nodes on the Longest path from root to leaf Node\\Sum of Nodes on the Longest path from root to leaf Node.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if 2 trees are mirror or not": {
+      "question_name": "Check if 2 trees are mirror or not",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if 2 trees are mirror or not\\Check if 2 trees are mirror or not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if a Binary Tree contains duplicate subtrees of size 2 or more*": {
+      "question_name": "Check if a Binary Tree contains duplicate subtrees of size 2 or more*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if a Binary Tree contains duplicate subtrees of size 2 or more\\Check if a Binary Tree contains duplicate subtrees of size 2 or more.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if all leaf NOdes are at same level or NOt": {
+      "question_name": "Check if all leaf NOdes are at same level or NOt",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if all leaf NOdes are at same level or NOt\\Check if all leaf NOdes are at same level or NOt.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if Binary tree is Sum tree or NOT": {
+      "question_name": "Check if Binary tree is Sum tree or NOT",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if Binary tree is Sum tree or NOT\\Check if Binary tree is Sum tree or NOT.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Tricky",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if Binary tree is Sum tree or NOT\\Tricky.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check if Binary tree is Sum tree or NOT\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find minimum swaps required to convert a Binary tree into BST": {
+      "question_name": "Find minimum swaps required to convert a Binary tree into BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Find minimum swaps required to convert a Binary tree into BST\\Find minimum swaps required to convert a Binary tree into BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Construct Binary tree from Inorder and postorder traversal": {
+      "question_name": "Construct Binary tree from Inorder and postorder traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and postorder traversal\\Construct Binary tree from Inorder and postorder traversal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and postorder traversal\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and postorder traversal\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Construct Binary tree from Inorder and preorder traversal": {
+      "question_name": "Construct Binary tree from Inorder and preorder traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and preorder traversal\\Construct Binary tree from Inorder and preorder traversal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two DS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and preorder traversal\\Two DS.py"
+        },
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and preorder traversal\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Construct Binary tree from Inorder and preorder traversal\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Binary tree into Sum tree": {
+      "question_name": "Binary tree into Sum tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Binary tree into Sum tree\\Binary tree into Sum tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Binary Tree to Doubly Linked List": {
+      "question_name": "Binary Tree to Doubly Linked List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Binary Tree to Doubly Linked List\\Binary Tree to Doubly Linked List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Diagonal Traversal": {
+      "question_name": "Diagonal Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Diagonal Traversal\\Diagonal Traversal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check Binary Tree": {
+      "question_name": "Check Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check Binary Tree\\Check Binary Tree.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check Binary Tree\\Optimal.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Check Binary Tree\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Zigzag Traversal": {
+      "question_name": "Zigzag Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Zigzag Traversal\\Zigzag Traversal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Views of Tree": {
+      "question_name": "Views of Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Views of Tree\\Views of Tree.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Top View",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Views of Tree\\Top View.py"
+        },
+        {
+          "sub_question_name": "Right View",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Views of Tree\\Right View.py"
+        },
+        {
+          "sub_question_name": "Left View",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Views of Tree\\Left View.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Traversal": {
+      "question_name": "Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Traversal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Postorder Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Postorder Iterative.py"
+        },
+        {
+          "sub_question_name": "Postorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Postorder.py"
+        },
+        {
+          "sub_question_name": "Preorder Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Preorder Iterative.py"
+        },
+        {
+          "sub_question_name": "Preorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Preorder.py"
+        },
+        {
+          "sub_question_name": "Inorder Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Inorder Iterative.py"
+        },
+        {
+          "sub_question_name": "Inorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Traversal\\Inorder.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Mirror of Tree": {
+      "question_name": "Mirror of Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Mirror of Tree\\Mirror of Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Diameter of Tree": {
+      "question_name": "Diameter of Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Diameter of Tree\\Diameter of Tree.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Using DFS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Diameter of Tree\\Using DFS.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Height of Tree": {
+      "question_name": "Height of Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Height of Tree\\Height of Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reverse Level Order Traversal": {
+      "question_name": "Reverse Level Order Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Reverse Level Order Traversal\\Reverse Level Order Traversal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Better",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Reverse Level Order Traversal\\Better.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Level Order Traversal (BFS)": {
+      "question_name": "Level Order Traversal (BFS)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Trees\\Level Order Traversal (BFS)\\Level Order Traversal (BFS).py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Linked List": {
+    "Palindrome Linked List": {
+      "question_name": "Palindrome Linked List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Palindrome Linked List\\Palindrome Linked List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge two Sorted Linked Lists": {
+      "question_name": "Merge two Sorted Linked Lists",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Merge two Sorted Linked Lists\\Merge two Sorted Linked Lists.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "LRU Cache Design": {
+      "question_name": "LRU Cache Design",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\LRU Cache Design\\LRU Cache Design.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Clone a linked list using a random pointer": {
+      "question_name": "Clone a linked list using a random pointer",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Clone a linked list using a random pointer\\Clone a linked list using a random pointer.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Pairwise swap nodes of linked list": {
+      "question_name": "Pairwise swap nodes of linked list",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Pairwise swap nodes of linked list\\Pairwise swap nodes of linked list.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The intersection of two linked list": {
+      "question_name": "The intersection of two linked list",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\The intersection of two linked list\\The intersection of two linked list.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Segregating even-odd nodes of linked list": {
+      "question_name": "Segregating even-odd nodes of linked list",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Segregating even-odd nodes of linked list\\Segregating even-odd nodes of linked list.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reverse in group of size k": {
+      "question_name": "Reverse in group of size k",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Reverse in group of size k\\Reverse in group of size k.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Deleting a Node without accessing Head pointer of Linked List": {
+      "question_name": "Deleting a Node without accessing Head pointer of Linked List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Deleting a Node without accessing Head pointer of Linked List\\Deleting a Node without accessing Head pointer of Linked List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Nth node from the end of linked list": {
+      "question_name": "Nth node from the end of linked list",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Nth node from the end of linked list\\Nth node from the end of linked list.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Detection Looping": {
+      "question_name": "Detection Looping",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detection Looping\\Detection Looping.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Detecting and Removing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detection Looping\\Detecting and Removing.py"
+        },
+        {
+          "sub_question_name": "Floyd Cycle",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detection Looping\\Floyd Cycle.py"
+        },
+        {
+          "sub_question_name": "Sets",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detection Looping\\Sets.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Middle of Linked List": {
+      "question_name": "Middle of Linked List",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Middle of Linked List\\Middle of Linked List.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two pointers",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Middle of Linked List\\Two pointers.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "How do you find the sum of two linked lists using Stack?": {
+      "question_name": "How do you find the sum of two linked lists using Stack?",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\How do you find the sum of two linked lists using Stack\\How do you find the sum of two linked lists using Stack.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Third node from Last LL": {
+      "question_name": "Third node from Last LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Third node from Last LL\\Third node from Last LL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find Length": {
+      "question_name": "Find Length",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Find Length\\Find Length.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rotate a DLL in group of Given Size.[Very IMP]": {
+      "question_name": "Rotate a DLL in group of Given Size.[Very IMP]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Rotate a DLL in group of Given Size.[Very IMP]\\Rotate a DLL in group of Given Size.[Very IMP].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rotate DLL by N nodes.": {
+      "question_name": "Rotate DLL by N nodes.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Rotate DLL by N nodes\\Rotate DLL by N nodes.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sort a \"k\" sorted Doubly Linked list.[Very IMP]": {
+      "question_name": "Sort a \"k\" sorted Doubly Linked list.[Very IMP]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Sort a k sorted Doubly Linked list.[Very IMP]\\Sort a k sorted Doubly Linked list.[Very IMP].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count triplets in a sorted DLL whose sum is equal to given value \"X\".": {
+      "question_name": "Count triplets in a sorted DLL whose sum is equal to given value \"X\".",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Count triplets in a sorted DLL whose sum is equal to given value X\\Count triplets in a sorted DLL whose sum is equal to given value X.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find pairs with a given sum in a DLL.": {
+      "question_name": "Find pairs with a given sum in a DLL.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Find pairs with a given sum in a DLL\\Find pairs with a given sum in a DLL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reverse a DLL.": {
+      "question_name": "Reverse a DLL.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Reverse a DLL\\Reverse a DLL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Deletion from a CLL": {
+      "question_name": "Deletion from a CLL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Deletion from a CLL\\Deletion from a CLL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Singly LL is a palindrome or not?": {
+      "question_name": "Singly LL is a palindrome or not?",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Singly LL is a palindrome or not\\Singly LL is a palindrome or not.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Reverse the list",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Singly LL is a palindrome or not\\Reverse the list.py"
+        },
+        {
+          "sub_question_name": "Stacks",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Singly LL is a palindrome or not\\Stacks.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Split a CLL into two halves.": {
+      "question_name": "Split a CLL into two halves.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Split a CLL into two halves\\Split a CLL into two halves.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if a LL is a CLL": {
+      "question_name": "Check if a LL is a CLL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Check if a LL is a CLL\\Check if a LL is a CLL.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Floyd",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Check if a LL is a CLL\\Floyd.py"
+        },
+        {
+          "sub_question_name": "Sets",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Check if a LL is a CLL\\Sets.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Middle Element of a LL": {
+      "question_name": "Middle Element of a LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Middle Element of a LL\\Middle Element of a LL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Quicksort for Linked Lists.[VI]*": {
+      "question_name": "Quicksort for Linked Lists.[VI]*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Quicksort for Linked Lists.[VI]\\Quicksort for Linked Lists.[VI].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge Sort For Linked lists.[VI]*": {
+      "question_name": "Merge Sort For Linked lists.[VI]*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Merge Sort For Linked lists.[VI]\\Merge Sort For Linked lists.[VI].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Intersection Point of two Linked Lists.": {
+      "question_name": "Intersection Point of two Linked Lists.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection Point of two Linked Lists\\Intersection Point of two Linked Lists.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two Pointer",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection Point of two Linked Lists\\Two Pointer.py"
+        },
+        {
+          "sub_question_name": "Make a Circle",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection Point of two Linked Lists\\Make a Circle.py"
+        },
+        {
+          "sub_question_name": "Count the nodes",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection Point of two Linked Lists\\Count the nodes.py"
+        },
+        {
+          "sub_question_name": "Sets(hashing)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection Point of two Linked Lists\\Sets(hashing).py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Intersection of two Sorted Linked List.": {
+      "question_name": "Intersection of two Sorted Linked List.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Intersection of two Sorted Linked List\\Intersection of two Sorted Linked List.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Add two numbers represented by LL": {
+      "question_name": "Add two numbers represented by LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add two numbers represented by LL\\Add two numbers represented by LL.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add two numbers represented by LL\\Iterative.py"
+        },
+        {
+          "sub_question_name": "Recursion",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add two numbers represented by LL\\Recursion.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Add \"1\" to a number represented as a LL": {
+      "question_name": "Add \"1\" to a number represented as a LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add 1 to a number represented as a LL\\Add 1 to a number represented as a LL.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add 1 to a number represented as a LL\\Optimal.py"
+        },
+        {
+          "sub_question_name": "Recursion",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add 1 to a number represented as a LL\\Recursion.py"
+        },
+        {
+          "sub_question_name": "Reversing way",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Add 1 to a number represented as a LL\\Reversing way.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Move the last element to Front in a LL.": {
+      "question_name": "Move the last element to Front in a LL.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Move the last element to Front in a LL\\Move the last element to Front in a LL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Remove Duplicates in a Un-sorted LL.": {
+      "question_name": "Remove Duplicates in a Un-sorted LL.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Remove Duplicates in a Un-sorted LL\\Remove Duplicates in a Un-sorted LL.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Remove Duplicates in a Un-sorted LL\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting Searching",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Remove Duplicates in a Un-sorted LL\\Sorting Searching.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Remove Duplicates in a Un-sorted LL\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Remove Duplicates in a sorted LL.": {
+      "question_name": "Remove Duplicates in a sorted LL.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Remove Duplicates in a sorted LL\\Remove Duplicates in a sorted LL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find  Starting point of the loop.": {
+      "question_name": "Find  Starting point of the loop.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Find  Starting point of the loop\\Find  Starting point of the loop.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Detect Loop in LL": {
+      "question_name": "Detect Loop in LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detect Loop in LL\\Detect Loop in LL.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Floyd",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detect Loop in LL\\Floyd.py"
+        },
+        {
+          "sub_question_name": "Sets (Hashing)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Detect Loop in LL\\Sets (Hashing).py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Group Reverse LL": {
+      "question_name": "Group Reverse LL",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Group Reverse LL\\Group Reverse LL.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reverse LinkedList": {
+      "question_name": "Reverse LinkedList",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Reverse LinkedList\\Reverse LinkedList.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Reverse LinkedList\\Iterative.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Reverse LinkedList\\Recursive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Linked List Implementation": {
+      "question_name": "Linked List Implementation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Linked List\\Linked List Implementation\\Linked List Implementation.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Double",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Linked List Implementation\\Double.py"
+        },
+        {
+          "sub_question_name": "Circular",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Linked List\\Linked List Implementation\\Circular.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Graphs": {
+    "Topological Sorting": {
+      "question_name": "Topological Sorting",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Topological Sorting\\Topological Sorting.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "DFS Based Algorithm",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Topological Sorting\\DFS Based Algorithm.py"
+        },
+        {
+          "sub_question_name": "Kahn's BFS Based Algorithm",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Topological Sorting\\Kahn's BFS Based Algorithm.py"
+        },
+        {
+          "sub_question_name": "Topo Sort Adjacency",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Topological Sorting\\Topo Sort Adjacency.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Detecting Cycle": {
+      "question_name": "Detecting Cycle",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Detecting Cycle\\Detecting Cycle.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Undirected Graph",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Detecting Cycle\\Undirected Graph.py"
+        },
+        {
+          "sub_question_name": "Directed Graph",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Detecting Cycle\\Directed Graph.py"
+        },
+        {
+          "sub_question_name": "Using DFS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\Detecting Cycle\\Using DFS.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Floyd Warshall Alg": {
+      "question_name": "Floyd Warshall Alg",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Floyd Warshall Alg\\Floyd Warshall Alg.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kruskal's Alg": {
+      "question_name": "Kruskal's Alg",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Kruskal's Alg\\Kruskal's Alg.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Prim's Alg": {
+      "question_name": "Prim's Alg",
+      "link": "http:\\\\geeksforgeeks.com",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Prim's Alg\\Prim's Alg.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Bellman Ford's Alg": {
+      "question_name": "Bellman Ford's Alg",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Bellman Ford's Alg\\Bellman Ford's Alg.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Dijkskra Alg": {
+      "question_name": "Dijkskra Alg",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\Dijkskra Alg\\Dijkskra Alg.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "BFS": {
+      "question_name": "BFS",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\BFS\\BFS.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "BFS Adjacency Matrix",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\BFS\\BFS Adjacency Matrix.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "DFS": {
+      "question_name": "DFS",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Graphs\\DFS\\DFS.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "disconnected graphs",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\DFS\\disconnected graphs.py"
+        },
+        {
+          "sub_question_name": "iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\DFS\\iterative.py"
+        },
+        {
+          "sub_question_name": "DFS Adjancency Matrix",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Graphs\\DFS\\DFS Adjancency Matrix.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Binary Search": {
+    "Majority Element": {
+      "question_name": "Majority Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Majority Element\\Majority Element.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Median of two sorted arrays": {
+      "question_name": "Median of two sorted arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Median of two sorted arrays\\Median of two sorted arrays.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find pair in an  array which gives sum X": {
+      "question_name": "Find pair in an  array which gives sum X",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find pair in an  array which gives sum X\\Find pair in an  array which gives sum X.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "For triplet",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find pair in an  array which gives sum X\\For triplet.py"
+        },
+        {
+          "sub_question_name": "Unsorted",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find pair in an  array which gives sum X\\Unsorted.py"
+        },
+        {
+          "sub_question_name": "Sorted",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find pair in an  array which gives sum X\\Sorted.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Two Pointer Approach Problems": {
+      "question_name": "Two Pointer Approach Problems",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Two Pointer Approach Problems\\Two Pointer Approach Problems.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the Position of an Element in a sorted Array": {
+      "question_name": "Find the Position of an Element in a sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find the Position of an Element in a sorted Array\\Find the Position of an Element in a sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find element in sorted array that appears once": {
+      "question_name": "Find element in sorted array that appears once",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find element in sorted array that appears once\\Find element in sorted array that appears once.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Search in a Bitonic Array": {
+      "question_name": "Search in a Bitonic Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Search in a Bitonic Array\\Search in a Bitonic Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count of 1s in a binary sorted array": {
+      "question_name": "Count of 1s in a binary sorted array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Count of 1s in a binary sorted array\\Count of 1s in a binary sorted array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Index of last 1 in a sorted Array": {
+      "question_name": "Index of last 1 in a sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Index of last 1 in a sorted Array\\Index of last 1 in a sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The square root of an integer": {
+      "question_name": "The square root of an integer",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\The square root of an integer\\The square root of an integer.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Allocate min number of pages": {
+      "question_name": "Allocate min number of pages",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Allocate min number of pages\\Allocate min number of pages.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Row and columnwise sorted array search": {
+      "question_name": "Row and columnwise sorted array search",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Row and columnwise sorted array search\\Row and columnwise sorted array search.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Search in bitonic Array": {
+      "question_name": "Search in bitonic Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Search in bitonic Array\\Search in bitonic Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Peak Element": {
+      "question_name": "Peak Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Peak Element\\Peak Element.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Maximum element in a Bitonic Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Peak Element\\Maximum element in a Bitonic Array.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Binary Search on Answer Concept": {
+      "question_name": "Binary Search on Answer Concept",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Binary Search on Answer Concept\\Binary Search on Answer Concept.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Find a pair with difference k": {
+      "question_name": "Find a pair with difference k",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find a pair with difference k\\Find a pair with difference k.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sort and BS:": {
+      "question_name": "Sort and BS:",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Sort and BS\\Sort and BS.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Fixed Point (Value equal to index)": {
+      "question_name": "Fixed Point (Value equal to index)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Fixed Point (Value equal to index)\\Fixed Point (Value equal to index).py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Square root of a Number": {
+      "question_name": "Square root of a Number",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Square root of a Number\\Square root of a Number.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "BS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Square root of a Number\\BS.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Square root of a Number\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find the position of element in infinite sorted Array": {
+      "question_name": "Find the position of element in infinite sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find the position of element in infinite sorted Array\\Find the position of element in infinite sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Next Alphabetical Letter element": {
+      "question_name": "Next Alphabetical Letter element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Next Alphabetical Letter element\\Next Alphabetical Letter element.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Floor/Ceil of an Element in sorted array": {
+      "question_name": "Floor/Ceil of an Element in sorted array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\FloorCeil of an Element in sorted array\\FloorCeil of an Element in sorted array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Minimum difference element in a sorted Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\FloorCeil of an Element in sorted array\\Minimum difference element in a sorted Array.py"
+        },
+        {
+          "sub_question_name": "Next alphabet in sorted Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\FloorCeil of an Element in sorted array\\Next alphabet in sorted Array.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Searching in Nearly Sorted Array": {
+      "question_name": "Searching in Nearly Sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Searching in Nearly Sorted Array\\Searching in Nearly Sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find an Element in Rotated Sorted": {
+      "question_name": "Find an Element in Rotated Sorted",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find an Element in Rotated Sorted\\Find an Element in Rotated Sorted.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "With duplicates",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find an Element in Rotated Sorted\\With duplicates.py"
+        },
+        {
+          "sub_question_name": "Without finding minmum element",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Find an Element in Rotated Sorted\\Without finding minmum element.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Number of times a array is rotated": {
+      "question_name": "Number of times a array is rotated",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Number of times a array is rotated\\Number of times a array is rotated.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "First and Last Occurence of an Element in sorted Array": {
+      "question_name": "First and Last Occurence of an Element in sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\First and Last Occurence of an Element in sorted Array\\First and Last Occurence of an Element in sorted Array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Count of Element in a Sorted Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\First and Last Occurence of an Element in sorted Array\\Count of Element in a Sorted Array.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Order Agnostic BS / Order not known Search": {
+      "question_name": "Order Agnostic BS / Order not known Search",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Order Agnostic BS  Order not known Search\\Order Agnostic BS  Order not known Search.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "BS on Reverse Sorted Array": {
+      "question_name": "BS on Reverse Sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\BS on Reverse Sorted Array\\BS on Reverse Sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Binary Search": {
+      "question_name": "Binary Search",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Binary Search\\Binary Search.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Binary Search\\Recursive.py"
+        },
+        {
+          "sub_question_name": "Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Binary Search\\Binary Search\\Iterative.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Search": {
+    "Search an element in an array where difference between adjacent elements is 1": {
+      "question_name": "Search an element in an array where difference between adjacent elements is 1",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Search an element in an array where difference between adjacent elements is 1\\Search an element in an array where difference between adjacent elements is 1.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Searching in an array where adjacent differ by at most k",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Search\\Search an element in an array where difference between adjacent elements is 1\\Searching in an array where adjacent differ by at most k.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Stacks": {
+    "Iterative TOH": {
+      "question_name": "Iterative TOH",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Iterative TOH\\Iterative TOH.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest valid Parenthesis": {
+      "question_name": "Longest valid Parenthesis",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Longest valid Parenthesis\\Longest valid Parenthesis.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Stacking using Heap": {
+      "question_name": "Stacking using Heap",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Stacking using Heap\\Stacking using Heap.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Min Stack (Extra n no extra)": {
+      "question_name": "Min Stack (Extra n no extra)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Min Stack (Extra n no extra)\\Min Stack (Extra n no extra).py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Without Extra Space",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Min Stack (Extra n no extra)\\Without Extra Space.py"
+        },
+        {
+          "sub_question_name": "With Extra Space full",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Min Stack (Extra n no extra)\\With Extra Space full.py"
+        },
+        {
+          "sub_question_name": "With Extra Space",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Min Stack (Extra n no extra)\\With Extra Space.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Sliding Window Maximum of Size k": {
+      "question_name": "Sliding Window Maximum of Size k",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Sliding Window Maximum of Size k\\Sliding Window Maximum of Size k.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Sliding Window Maximum of Size k\\.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Sliding Window Maximum of Size k\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Rain Water Trapping": {
+      "question_name": "Rain Water Trapping",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Rain Water Trapping\\Rain Water Trapping.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Rain Water Trapping\\brute.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Max area of Rectangle in Binary Matrix": {
+      "question_name": "Max area of Rectangle in Binary Matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Max area of Rectangle in Binary Matrix\\Max area of Rectangle in Binary Matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Max Area of Histogram": {
+      "question_name": "Max Area of Histogram",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Max Area of Histogram\\Max Area of Histogram.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Stock Span": {
+      "question_name": "Stock Span",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Stock Span\\Stock Span.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Stock Span\\brute.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Nearest Releated Problems*": {
+      "question_name": "Nearest Releated Problems*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Nearest Releated Problems\\Nearest Releated Problems.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "NSR",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Nearest Releated Problems\\NSR.py"
+        },
+        {
+          "sub_question_name": "NSL",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Nearest Releated Problems\\NSL.py"
+        },
+        {
+          "sub_question_name": "NGR (Next Largest Element)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Nearest Releated Problems\\NGR (Next Largest Element).py"
+        },
+        {
+          "sub_question_name": "NGL",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Nearest Releated Problems\\NGL.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "LRU Cache Implementationa": {
+      "question_name": "LRU Cache Implementationa",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\LRU Cache Implementationa\\LRU Cache Implementationa.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement a Circular queue": {
+      "question_name": "Implement a Circular queue",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Implement a Circular queue\\Implement a Circular queue.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Stack Permutations (Check if an array is stack permutation of other)": {
+      "question_name": "Stack Permutations (Check if an array is stack permutation of other)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Stack Permutations (Check if an array is stack permutation of other)\\Stack Permutations (Check if an array is stack permutation of other).py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Expression contains redundant bracket or Not": {
+      "question_name": "Expression contains redundant bracket or Not",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Expression contains redundant bracket or Not\\Expression contains redundant bracket or Not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Parentheses Check": {
+      "question_name": "Parentheses Check",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Parentheses Check\\Parentheses Check.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Longest Valid Parenthesis (Stacks)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Parentheses Check\\Longest Valid Parenthesis (Stacks).py"
+        },
+        {
+          "sub_question_name": "Longest Valid Parentheses",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\Parentheses Check\\Longest Valid Parentheses.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Implement a method to insert an element at its bottom without using any other data structure.": {
+      "question_name": "Implement a method to insert an element at its bottom without using any other data structure.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Implement a method to insert an element at its bottom without using any other data structure\\Implement a method to insert an element at its bottom without using any other data structure.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Evaluation of Postfix expression": {
+      "question_name": "Evaluation of Postfix expression",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Evaluation of Postfix expression\\Evaluation of Postfix expression.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Arithmetic Expression evaluation": {
+      "question_name": "Arithmetic Expression evaluation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Arithmetic Expression evaluation\\Arithmetic Expression evaluation.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Insert element at end of stack": {
+      "question_name": "Insert element at end of stack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Insert element at end of stack\\Insert element at end of stack.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The celebrity Problem": {
+      "question_name": "The celebrity Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\The celebrity Problem\\The celebrity Problem.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two Pointers",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\The celebrity Problem\\Two Pointers.py"
+        },
+        {
+          "sub_question_name": "Stacks",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\The celebrity Problem\\Stacks.py"
+        },
+        {
+          "sub_question_name": "Recursion",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\The celebrity Problem\\Recursion.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks\\The celebrity Problem\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find the middle element of a stack": {
+      "question_name": "Find the middle element of a stack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks\\Find the middle element of a stack\\Find the middle element of a stack.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Stacks, Queues, Deques": {
+    "Implement Deques:": {
+      "question_name": "Implement Deques:",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Deques\\Implement Deques.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement Queue using 2 Stacks": {
+      "question_name": "Implement Queue using 2 Stacks",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Queue using 2 Stacks\\Implement Queue using 2 Stacks.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement Queue using Stack": {
+      "question_name": "Implement Queue using Stack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Queue using Stack\\Implement Queue using Stack.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement \"n\" queue in an array": {
+      "question_name": "Implement \"n\" queue in an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement n queue in an array\\Implement n queue in an array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement Queue:": {
+      "question_name": "Implement Queue:",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Queue\\Implement Queue.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement Stack using Deque": {
+      "question_name": "Implement Stack using Deque",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Stack using Deque\\Implement Stack using Deque.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement Stack using Queue": {
+      "question_name": "Implement Stack using Queue",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Stack using Queue\\Implement Stack using Queue.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Making Pop Costly",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Stack using Queue\\Making Pop Costly.py"
+        },
+        {
+          "sub_question_name": "Making Push Costly",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Stack using Queue\\Making Push Costly.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Implement 2 stack in an array": {
+      "question_name": "Implement 2 stack in an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement 2 stack in an array\\Implement 2 stack in an array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Implement \"N\" stacks in an Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement 2 stack in an array\\Implement N stacks in an Array.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Implement Stacks:": {
+      "question_name": "Implement Stacks:",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Stacks, Queues, Deques\\Implement Stacks\\Implement Stacks.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Sorting": {
+    "Radix Sort": {
+      "question_name": "Radix Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Radix Sort\\Radix Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Quick Sort": {
+      "question_name": "Quick Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Quick Sort\\Quick Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge Sort": {
+      "question_name": "Merge Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Merge Sort\\Merge Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Bucket Sort": {
+      "question_name": "Bucket Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Bucket Sort\\Bucket Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Insertion Sort": {
+      "question_name": "Insertion Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Insertion Sort\\Insertion Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count Sort": {
+      "question_name": "Count Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Count Sort\\Count Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Selection Sort": {
+      "question_name": "Selection Sort",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Selection Sort\\Selection Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Bubble Sort": {
+      "question_name": "Bubble Sort",
+      "link": "http:\\\\geeks for geeks.com",
+      "path": "D:\\Projects\\DSA\\Data\\Sorting\\Bubble Sort\\Bubble Sort.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
+  "Strings": {
+    "KMP Algorithm": {
+      "question_name": "KMP Algorithm",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\KMP Algorithm\\KMP Algorithm.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rabin Karp Algorithm": {
+      "question_name": "Rabin Karp Algorithm",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Rabin Karp Algorithm\\Rabin Karp Algorithm.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Naive Pattern Matching": {
+      "question_name": "Naive Pattern Matching",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Naive Pattern Matching\\Naive Pattern Matching.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "For 2 Strings, They are rotations of each other or not.": {
+      "question_name": "For 2 Strings, They are rotations of each other or not.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\For 2 Strings, They are rotations of each other or not\\For 2 Strings, They are rotations of each other or not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Given a text string and a pattern string, find if a permutation of the pattern exists in the text.": {
+      "question_name": "Given a text string and a pattern string, find if a permutation of the pattern exists in the text.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Given a text string and a pattern string, find if a permutation of the pattern exists in the text\\Given a text string and a pattern string, find if a permutation of the pattern exists in the text.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the lexicographic rank of it in O(n) time.": {
+      "question_name": "Find the lexicographic rank of it in O(n) time.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Find the lexicographic rank of it in O(n) time\\Find the lexicographic rank of it in O(n) time.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the leftmost character that does not repeat.": {
+      "question_name": "Find the leftmost character that does not repeat.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Find the leftmost character that does not repeat\\Find the leftmost character that does not repeat.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the leftmost character that repeats.": {
+      "question_name": "Find the leftmost character that repeats.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Find the leftmost character that repeats\\Find the leftmost character that repeats.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Permutation of String": {
+      "question_name": "Permutation of String",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Permutation of String\\Permutation of String.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Reverse a sentence": {
+      "question_name": "Reverse a sentence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse a sentence\\Reverse a sentence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "reverse looping",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse a sentence\\reverse looping.py"
+        },
+        {
+          "sub_question_name": "using Stacks",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse a sentence\\using Stacks.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Reverse String": {
+      "question_name": "Reverse String",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse String\\Reverse String.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Recursion Java",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse String\\Recursion Java.py"
+        },
+        {
+          "sub_question_name": "Recursion python",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\Reverse String\\Recursion python.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "First non repeated Character": {
+      "question_name": "First non repeated Character",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\First non repeated Character\\First non repeated Character.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "String Palindrome": {
+      "question_name": "String Palindrome",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Strings\\String Palindrome\\String Palindrome.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Anagrams Java",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\String Palindrome\\Anagrams Java.py"
+        },
+        {
+          "sub_question_name": "Duplicate Char Java",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\String Palindrome\\Duplicate Char Java.py"
+        },
+        {
+          "sub_question_name": "Non Pythonic",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Strings\\String Palindrome\\Non Pythonic.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "String": {
+    "Converting Roman Numerals to Decimal": {
+      "question_name": "Converting Roman Numerals to Decimal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Converting Roman Numerals to Decimal\\Converting Roman Numerals to Decimal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Boyer Moore Algorithm for Pattern Searching.": {
+      "question_name": "Boyer Moore Algorithm for Pattern Searching.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Boyer Moore Algorithm for Pattern Searching\\Boyer Moore Algorithm for Pattern Searching.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Search a Word in a 2D Grid of characters.": {
+      "question_name": "Search a Word in a 2D Grid of characters.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Search a Word in a 2D Grid of characters\\Search a Word in a 2D Grid of characters.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count of number of given string in 2D character array": {
+      "question_name": "Count of number of given string in 2D character array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Count of number of given string in 2D character array\\Count of number of given string in 2D character array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count All Palindromic Subsequence in a given String.": {
+      "question_name": "Count All Palindromic Subsequence in a given String.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Count All Palindromic Subsequence in a given String\\Count All Palindromic Subsequence in a given String.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum number of bracket reversals needed to make an expression balanced.": {
+      "question_name": "Minimum number of bracket reversals needed to make an expression balanced.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Minimum number of bracket reversals needed to make an expression balanced\\Minimum number of bracket reversals needed to make an expression balanced.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Mobile keypad": {
+      "question_name": "Mobile keypad",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Mobile keypad\\Mobile keypad.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "String Matching": {
+      "question_name": "String Matching",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\String Matching\\String Matching.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "KMP Algo",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\String Matching\\KMP Algo.py"
+        },
+        {
+          "sub_question_name": "Rabin Karp Algo",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\String Matching\\Rabin Karp Algo.py"
+        },
+        {
+          "sub_question_name": "Naive String Matching",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\String Matching\\Naive String Matching.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Word break Problem[ Very Imp]": {
+      "question_name": "Word break Problem[ Very Imp]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Word break Problem[ Very Imp]\\Word break Problem[ Very Imp].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find next greater number with same set of digits/Next Permutation [VVI]": {
+      "question_name": "Find next greater number with same set of digits/Next Permutation [VVI]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Find next greater number with same set of digitsNext Permutation [VVI]\\Find next greater number with same set of digitsNext Permutation [VVI].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "EDIT Distance [Very Imp]": {
+      "question_name": "EDIT Distance [Very Imp]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\EDIT Distance [Very Imp]\\EDIT Distance [Very Imp].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Word Wrap Problem [VERY IMP]": {
+      "question_name": "Word Wrap Problem [VERY IMP]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Word Wrap Problem [VERY IMP]\\Word Wrap Problem [VERY IMP].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count the substring with equal number of 0s and 1s": {
+      "question_name": "Count the substring with equal number of 0s and 1s",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Count the substring with equal number of 0s and 1s\\Count the substring with equal number of 0s and 1s.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print all the permutations of the given string": {
+      "question_name": "Print all the permutations of the given string",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Print all the permutations of the given string\\Print all the permutations of the given string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print all Subsequences of a string.": {
+      "question_name": "Print all Subsequences of a string.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Print all Subsequences of a string\\Print all Subsequences of a string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Recurring Subsequence in String": {
+      "question_name": "Longest Recurring Subsequence in String",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Longest Recurring Subsequence in String\\Longest Recurring Subsequence in String.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Palindrome in a string.[ Longest palindromic Substring]": {
+      "question_name": "Longest Palindrome in a string.[ Longest palindromic Substring]",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Longest Palindrome in a string.[ Longest palindromic Substring]\\Longest Palindrome in a string.[ Longest palindromic Substring].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count and Say problem": {
+      "question_name": "Count and Say problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Count and Say problem\\Count and Say problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if a string is a valid shuffle of two strings or not": {
+      "question_name": "Check if a string is a valid shuffle of two strings or not",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Check if a string is a valid shuffle of two strings or not\\Check if a string is a valid shuffle of two strings or not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if one string is a rotation of another": {
+      "question_name": "Check if one string is a rotation of another",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Check if one string is a rotation of another\\Check if one string is a rotation of another.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Basic": {
+      "question_name": "Basic",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Basic\\Basic.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Duplicate char in string",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\Basic\\Duplicate char in string.py"
+        },
+        {
+          "sub_question_name": "Palindrome or not",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\Basic\\Palindrome or not.py"
+        },
+        {
+          "sub_question_name": "Reverse a String",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\Basic\\Reverse a String.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Pattern Printing": {
+    "Diamond pattern": {
+      "question_name": "Diamond pattern",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Pattern Printing\\Diamond pattern\\Diamond pattern.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Pyramid pattern using stars": {
+      "question_name": "Pyramid pattern using stars",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Pattern Printing\\Pyramid pattern using stars\\Pyramid pattern using stars.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Numbers",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Pattern Printing\\Pyramid pattern using stars\\Numbers.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Backtracking": {
+    "Tug of War": {
+      "question_name": "Tug of War",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Tug of War\\Tug of War.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Subset Sum Problem": {
+      "question_name": "Subset Sum Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Subset Sum Problem\\Subset Sum Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print all palindromic partitions of a string": {
+      "question_name": "Print all palindromic partitions of a string",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Print all palindromic partitions of a string\\Print all palindromic partitions of a string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "m Coloring Problem": {
+      "question_name": "m Coloring Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\m Coloring Problem\\m Coloring Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sudoku Solver": {
+      "question_name": "Sudoku Solver",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Sudoku Solver\\Sudoku Solver.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Remove Invalid Parentheses": {
+      "question_name": "Remove Invalid Parentheses",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Remove Invalid Parentheses\\Remove Invalid Parentheses.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Word Break Problem": {
+      "question_name": "Word Break Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Word Break Problem\\Word Break Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "The Knight's tour": {
+      "question_name": "The Knight's tour",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\The Knight's tour\\The Knight's tour.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "N-Queen Problem": {
+      "question_name": "N-Queen Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\N-Queen Problem\\N-Queen Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rat in a maze": {
+      "question_name": "Rat in a maze",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Rat in a maze\\Rat in a maze.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Backtrack",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Backtracking\\Rat in a maze\\Backtrack.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Recursion": {
+    "Count the numbers of Occurences": {
+      "question_name": "Count the numbers of Occurences",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Count the numbers of Occurences\\Count the numbers of Occurences.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Remove duplicates from the string": {
+      "question_name": "Remove duplicates from the string",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Remove duplicates from the string\\Remove duplicates from the string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Next letter in alphabet": {
+      "question_name": "Next letter in alphabet",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Next letter in alphabet\\Next letter in alphabet.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Split a string in a possible ways according to the list": {
+      "question_name": "Split a string in a possible ways according to the list",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Split a string in a possible ways according to the list\\Split a string in a possible ways according to the list.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Tail Recursion": {
+      "question_name": "Tail Recursion",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Tail Recursion\\Tail Recursion.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Print N-bit binary numbers having more 1's than 0's for any Prefix": {
+      "question_name": "Print N-bit binary numbers having more 1's than 0's for any Prefix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Print N-bit binary numbers having more 1's than 0's for any Prefix\\Print N-bit binary numbers having more 1's than 0's for any Prefix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Generate all balanced Paranthesis": {
+      "question_name": "Generate all balanced Paranthesis",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Generate all balanced Paranthesis\\Generate all balanced Paranthesis.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Permutations (IP-OP)": {
+      "question_name": "Permutations (IP-OP)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Permutations (IP-OP)\\Permutations (IP-OP).py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Permutations with change case",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Permutations (IP-OP)\\Permutations with change case.py"
+        },
+        {
+          "sub_question_name": "Permutations with spaces",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Permutations (IP-OP)\\Permutations with spaces.py"
+        },
+        {
+          "sub_question_name": "String Permutation",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Permutations (IP-OP)\\String Permutation.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Josephus Problem (IBH)": {
+      "question_name": "Josephus Problem (IBH)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Josephus Problem (IBH)\\Josephus Problem (IBH).py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Subsets (IP-OP)": {
+      "question_name": "Subsets (IP-OP)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Subsets (IP-OP)\\Subsets (IP-OP).py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Lexographic",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Subsets (IP-OP)\\Lexographic.py"
+        },
+        {
+          "sub_question_name": "Unique Subsets",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Subsets (IP-OP)\\Unique Subsets.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Tower of Hanoi": {
+      "question_name": "Tower of Hanoi",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Tower of Hanoi\\Tower of Hanoi.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kth Grammar": {
+      "question_name": "Kth Grammar",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Kth Grammar\\Kth Grammar.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Delete Middle Element in a Stack": {
+      "question_name": "Delete Middle Element in a Stack",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Delete Middle Element in a Stack\\Delete Middle Element in a Stack.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Height of Binary Tree": {
+      "question_name": "Height of Binary Tree",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Height of Binary Tree\\Height of Binary Tree.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Checking Palindrome": {
+      "question_name": "Checking Palindrome",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Checking Palindrome\\Checking Palindrome.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sort a array": {
+      "question_name": "Sort a array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Sort a array\\Sort a array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sort a Stack",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Sort a array\\Sort a Stack.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Printing": {
+      "question_name": "Printing",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\Printing.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sum of digits",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\Sum of digits.py"
+        },
+        {
+          "sub_question_name": "Reverse a String",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\Reverse a String.py"
+        },
+        {
+          "sub_question_name": "Cumulative sum upto n",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\Cumulative sum upto n.py"
+        },
+        {
+          "sub_question_name": "1 to n",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\1 to n.py"
+        },
+        {
+          "sub_question_name": "n to 1",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Recursion\\Printing\\n to 1.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Matrix": {
+    "Search in row-wise and column-wise Sorted Matrix": {
+      "question_name": "Search in row-wise and column-wise Sorted Matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Search in row-wise and column-wise Sorted Matrix\\Search in row-wise and column-wise Sorted Matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Matrix Multiplication": {
+      "question_name": "Matrix Multiplication",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Matrix Multiplication\\Matrix Multiplication.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Spiral Traversal": {
+      "question_name": "Spiral Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Spiral Traversal\\Spiral Traversal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Boundary Traversal": {
+      "question_name": "Boundary Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Boundary Traversal\\Boundary Traversal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if the element is present in a row and column-wise sorted matrix.": {
+      "question_name": "Check if the element is present in a row and column-wise sorted matrix.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Check if the element is present in a row and column-wise sorted matrix\\Check if the element is present in a row and column-wise sorted matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rotating a Matrix": {
+      "question_name": "Rotating a Matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Rotating a Matrix\\Rotating a Matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Transposing a matrix": {
+      "question_name": "Transposing a matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Transposing a matrix\\Transposing a matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Diagonal Traversal": {
+      "question_name": "Diagonal Traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Diagonal Traversal\\Diagonal Traversal.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Printing matrix in a snake pattern": {
+      "question_name": "Printing matrix in a snake pattern",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Printing matrix in a snake pattern\\Printing matrix in a snake pattern.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Pass Matrix as Argument": {
+      "question_name": "Pass Matrix as Argument",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Pass Matrix as Argument\\Pass Matrix as Argument.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Multidimensional Matrix": {
+      "question_name": "Multidimensional Matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Multidimensional Matrix\\Multidimensional Matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Common elements in all rows of a given matrix": {
+      "question_name": "Common elements in all rows of a given matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Common elements in all rows of a given matrix\\Common elements in all rows of a given matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kth smallest element in a row-cpumn wise sorted matrix": {
+      "question_name": "Kth smallest element in a row-cpumn wise sorted matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Kth smallest element in a row-cpumn wise sorted matrix\\Kth smallest element in a row-cpumn wise sorted matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rotate matrix by 90 degrees": {
+      "question_name": "Rotate matrix by 90 degrees",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Rotate matrix by 90 degrees\\Rotate matrix by 90 degrees.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Transpose",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Rotate matrix by 90 degrees\\Transpose.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Rotate matrix by 90 degrees\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find a specific pair in matrix": {
+      "question_name": "Find a specific pair in matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find a specific pair in matrix\\Find a specific pair in matrix.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimized",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find a specific pair in matrix\\Optimized.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find a specific pair in matrix\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Maximum size rectangle": {
+      "question_name": "Maximum size rectangle",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Maximum size rectangle\\Maximum size rectangle.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Print elements in sorted order using row-column wise sorted matrix": {
+      "question_name": "Print elements in sorted order using row-column wise sorted matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Print elements in sorted order using row-column wise sorted matrix\\Print elements in sorted order using row-column wise sorted matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find row with maximum no. of 1's": {
+      "question_name": "Find row with maximum no. of 1's",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find row with maximum no. of 1's\\Find row with maximum no. of 1's.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimized",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find row with maximum no. of 1's\\Optimized.py"
+        },
+        {
+          "sub_question_name": "BS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find row with maximum no. of 1's\\BS.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find median in a row wise sorted matrix": {
+      "question_name": "Find median in a row wise sorted matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Find median in a row wise sorted matrix\\Find median in a row wise sorted matrix.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Spiral traversal on a Matrix": {
+      "question_name": "Spiral traversal on a Matrix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Matrix\\Spiral traversal on a Matrix\\Spiral traversal on a Matrix.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "DFS Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Spiral traversal on a Matrix\\DFS Recursive.py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Spiral traversal on a Matrix\\Recursive.py"
+        },
+        {
+          "sub_question_name": "Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Matrix\\Spiral traversal on a Matrix\\Iterative.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Sliding Window": {
+    "Smallest Subarray with sum greater than a given value": {
+      "question_name": "Smallest Subarray with sum greater than a given value",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Smallest Subarray with sum greater than a given value\\Smallest Subarray with sum greater than a given value.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Largest/Smallest Subarray of Size k": {
+      "question_name": "Largest/Smallest Subarray of Size k",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\LargestSmallest Subarray of Size k\\LargestSmallest Subarray of Size k.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "First negative number in every window of size k": {
+      "question_name": "First negative number in every window of size k",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\First negative number in every window of size k\\First negative number in every window of size k.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\First negative number in every window of size k\\Brute.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Sliding Window": {
+      "question_name": "Sliding Window",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Sliding Window\\Sliding Window.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Max Sum of k Consecutive Element Sliding Window",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Sliding Window\\Max Sum of k Consecutive Element Sliding Window.py"
+        },
+        {
+          "sub_question_name": "Max Sum of k Consecutive Element BF",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Sliding Window\\Max Sum of k Consecutive Element BF.py"
+        },
+        {
+          "sub_question_name": "Identification",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Sliding Window\\Identification.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Hashing": {
+    "Optimized More than n/k Solution": {
+      "question_name": "Optimized More than n/k Solution",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Optimized More than nk Solution\\Optimized More than nk Solution.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "More than n/k Occurences": {
+      "question_name": "More than n/k Occurences",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\More than nk Occurences\\More than nk Occurences.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Count Distinct elements in every window": {
+      "question_name": "Count Distinct elements in every window",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count Distinct elements in every window\\Count Distinct elements in every window.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Consecutive Subsequence": {
+      "question_name": "Longest Consecutive Subsequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest Consecutive Subsequence\\Longest Consecutive Subsequence.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest common span with the same sum in a binary array": {
+      "question_name": "Longest common span with the same sum in a binary array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest common span with the same sum in a binary array\\Longest common span with the same sum in a binary array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest subarray with an equal number of 0\u00e2\u20ac\u2122s and 1\u00e2\u20ac\u2122s": {
+      "question_name": "Longest subarray with an equal number of 0\u00e2\u20ac\u2122s and 1\u00e2\u20ac\u2122s",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest subarray with an equal number of 0\u00e2\u20ac\u2122s and 1\u00e2\u20ac\u2122s\\Longest subarray with an equal number of 0\u00e2\u20ac\u2122s and 1\u00e2\u20ac\u2122s.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest subarray with a given sum": {
+      "question_name": "Longest subarray with a given sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest subarray with a given sum\\Longest subarray with a given sum.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the triplet that sum to a given value": {
+      "question_name": "Find the triplet that sum to a given value",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Find the triplet that sum to a given value\\Find the triplet that sum to a given value.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Find the triplet that sum to a given value\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Find the triplet that sum to a given value\\Sorting.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Find the triplet that sum to a given value\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Longest consecutive subsequence": {
+      "question_name": "Longest consecutive subsequence",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest consecutive subsequence\\Longest consecutive subsequence.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest consecutive subsequence\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Longest consecutive subsequence\\Sorting.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Subarray with given sum": {
+      "question_name": "Subarray with given sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Subarray with given sum\\Subarray with given sum.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Count of subarrays",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Subarray with given sum\\Count of subarrays.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Subarray with zero-sum": {
+      "question_name": "Subarray with zero-sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Subarray with zero-sum\\Subarray with zero-sum.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Subarray with zero-sum\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Subarray with zero-sum\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Pair with given sum in an unsorted array": {
+      "question_name": "Pair with given sum in an unsorted array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\Pair with given sum in an unsorted array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "BS for sorted",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\BS for sorted.py"
+        },
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Union/InterSection of Unsorted Arrays": {
+      "question_name": "Union/InterSection of Unsorted Arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Unsorted Arrays\\UnionInterSection of Unsorted Arrays.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Searching",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Unsorted Arrays\\Searching.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Unsorted Arrays\\Brute.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Union/InterSection of Sorted Arrays": {
+      "question_name": "Union/InterSection of Sorted Arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Sorted Arrays\\UnionInterSection of Sorted Arrays.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Searching",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Sorted Arrays\\Searching.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\UnionInterSection of Sorted Arrays\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Count of the frequency of array elements": {
+      "question_name": "Count of the frequency of array elements",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count of the frequency of array elements\\Count of the frequency of array elements.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing and Ordering",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count of the frequency of array elements\\Hashing and Ordering.py"
+        },
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count of the frequency of array elements\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count of the frequency of array elements\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Count Distinct Elements": {
+      "question_name": "Count Distinct Elements",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count Distinct Elements\\Count Distinct Elements.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count Distinct Elements\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count Distinct Elements\\Sorting.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Count Distinct Elements\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Tips": {
+      "question_name": "Tips",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Tips\\Tips.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Substring Template",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Tips\\Substring Template.py"
+        }
+      ],
+      "is_blank": true
+    }
+  },
+  "Arrays": {
+    "Prefix Sum Technique": {
+      "question_name": "Prefix Sum Technique",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Prefix Sum Technique\\Prefix Sum Technique.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sliding Window Technique": {
+      "question_name": "Sliding Window Technique",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Sliding Window Technique\\Sliding Window Technique.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum Consecutive Flips": {
+      "question_name": "Minimum Consecutive Flips",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Minimum Consecutive Flips\\Minimum Consecutive Flips.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Majority Element": {
+      "question_name": "Majority Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Majority Element\\Majority Element.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Circular sum subarray.": {
+      "question_name": "Maximum Circular sum subarray.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Circular sum subarray\\Maximum Circular sum subarray.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Even-Odd Subarray": {
+      "question_name": "Longest Even-Odd Subarray",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Longest Even-Odd Subarray\\Longest Even-Odd Subarray.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Subarray Sum": {
+      "question_name": "Maximum Subarray Sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Subarray Sum\\Maximum Subarray Sum.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "kadane's",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Subarray Sum\\kadane's.py"
+        },
+        {
+          "sub_question_name": "3 loops",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Subarray Sum\\3 loops.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Maximum Consecutive 1s": {
+      "question_name": "Maximum Consecutive 1s",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Consecutive 1s\\Maximum Consecutive 1s.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Trapping Rainwater Problem": {
+      "question_name": "Trapping Rainwater Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Trapping Rainwater Problem\\Trapping Rainwater Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Stock Buy and Sell Problem": {
+      "question_name": "Stock Buy and Sell Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Stock Buy and Sell Problem\\Stock Buy and Sell Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Frequencies in Sorted Array": {
+      "question_name": "Frequencies in Sorted Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Frequencies in Sorted Array\\Frequencies in Sorted Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum Difference Problem": {
+      "question_name": "Maximum Difference Problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum Difference Problem\\Maximum Difference Problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Leaders in an Array": {
+      "question_name": "Leaders in an Array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Leaders in an Array\\Leaders in an Array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Left Rotation of the array by D places": {
+      "question_name": "Left Rotation of the array by D places",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Left Rotation of the array by D places\\Left Rotation of the array by D places.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if Sorted": {
+      "question_name": "Check if Sorted",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Check if Sorted\\Check if Sorted.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Left Rotation of the array by 1": {
+      "question_name": "Left Rotation of the array by 1",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Left Rotation of the array by 1\\Left Rotation of the array by 1.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Median of 2 sorted arrays of different size": {
+      "question_name": "Median of 2 sorted arrays of different size",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Median of 2 sorted arrays of different size\\Median of 2 sorted arrays of different size.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Median of 2 sorted arrays of equal size": {
+      "question_name": "Median of 2 sorted arrays of equal size",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Median of 2 sorted arrays of equal size\\Median of 2 sorted arrays of equal size.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum no. of operations required to make an array palindrome": {
+      "question_name": "Minimum no. of operations required to make an array palindrome",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Minimum no. of operations required to make an array palindrome\\Minimum no. of operations required to make an array palindrome.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum swaps required bring elements less equal K together": {
+      "question_name": "Minimum swaps required bring elements less equal K together",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Minimum swaps required bring elements less equal K together\\Minimum swaps required bring elements less equal K together.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Dutch National Flag": {
+      "question_name": "Dutch National Flag",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Dutch National Flag\\Dutch National Flag.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Three way partitioning of an array around a given value",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Dutch National Flag\\Three way partitioning of an array around a given value.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Chocolate Distribution problem": {
+      "question_name": "Chocolate Distribution problem",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Chocolate Distribution problem\\Chocolate Distribution problem.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find whether an array is a subset of another array": {
+      "question_name": "Find whether an array is a subset of another array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find whether an array is a subset of another array\\Find whether an array is a subset of another array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Frequency Array",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find whether an array is a subset of another array\\Frequency Array.py"
+        },
+        {
+          "sub_question_name": "Sets",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find whether an array is a subset of another array\\Sets.py"
+        },
+        {
+          "sub_question_name": "Sorting and BS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find whether an array is a subset of another array\\Sorting and BS.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find whether an array is a subset of another array\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Maximum profit by buying and selling a share atmost twice": {
+      "question_name": "Maximum profit by buying and selling a share atmost twice",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum profit by buying and selling a share atmost twice\\Maximum profit by buying and selling a share atmost twice.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Maximum product subarray": {
+      "question_name": "Maximum product subarray",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum product subarray\\Maximum product subarray.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find factorial of a large number": {
+      "question_name": "Find factorial of a large number",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find factorial of a large number\\Find factorial of a large number.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find if there is any subarray with sum equal to 0": {
+      "question_name": "Find if there is any subarray with sum equal to 0",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find if there is any subarray with sum equal to 0\\Find if there is any subarray with sum equal to 0.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rearrange the array in alternating positive and negative items": {
+      "question_name": "Rearrange the array in alternating positive and negative items",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Rearrange the array in alternating positive and negative items\\Rearrange the array in alternating positive and negative items.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "No DS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Rearrange the array in alternating positive and negative items\\No DS.py"
+        },
+        {
+          "sub_question_name": "Without Extra Space and Instable",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Rearrange the array in alternating positive and negative items\\Without Extra Space and Instable.py"
+        },
+        {
+          "sub_question_name": "Without Extra Space and Stable",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Rearrange the array in alternating positive and negative items\\Without Extra Space and Stable.py"
+        },
+        {
+          "sub_question_name": "With Extra Space",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Rearrange the array in alternating positive and negative items\\With Extra Space.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Count Inversion": {
+      "question_name": "Count Inversion",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Count Inversion\\Count Inversion.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimal (Merge sort)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Count Inversion\\Optimal (Merge sort).py"
+        },
+        {
+          "sub_question_name": "brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Count Inversion\\brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Next Permutation": {
+      "question_name": "Next Permutation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Next Permutation\\Next Permutation.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Merge Intervals": {
+      "question_name": "Merge Intervals",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge Intervals\\Merge Intervals.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sort and merge interval better",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge Intervals\\Sort and merge interval better.py"
+        },
+        {
+          "sub_question_name": "Sort and Check All",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge Intervals\\Sort and Check All.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Merge 2 sorted Arrays": {
+      "question_name": "Merge 2 sorted Arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Merge 2 sorted Arrays.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Similar to insertion sort",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Similar to insertion sort.py"
+        },
+        {
+          "sub_question_name": "Merge part of merge sort (uses extra space)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Merge part of merge sort (uses extra space).py"
+        },
+        {
+          "sub_question_name": "Add both array and sort them",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Add both array and sort them.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Minimise the maximum difference between heights.": {
+      "question_name": "Minimise the maximum difference between heights.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Minimise the maximum difference between heights\\Minimise the maximum difference between heights.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Minimise the maximum difference between heights\\Sorting.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Largest sum contiguous Subarray": {
+      "question_name": "Largest sum contiguous Subarray",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Largest sum contiguous Subarray\\Largest sum contiguous Subarray.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Largest sum contiguous Subarray\\Brute.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Best time to buy and Sell stock": {
+      "question_name": "Best time to buy and Sell stock",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Best time to buy and Sell stock\\Best time to buy and Sell stock.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Best time to buy and Sell stock\\Optimal.py"
+        },
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Best time to buy and Sell stock\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Union and Intersection of the two sorted arrays": {
+      "question_name": "Union and Intersection of the two sorted arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Union and Intersection of the two sorted arrays\\Union and Intersection of the two sorted arrays.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Searching And Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Union and Intersection of the two sorted arrays\\Searching And Sorting.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Union and Intersection of the two sorted arrays\\Sorting.py"
+        },
+        {
+          "sub_question_name": "Sets",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Union and Intersection of the two sorted arrays\\Sets.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Move all the negative elements to one side of the array": {
+      "question_name": "Move all the negative elements to one side of the array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Move all the negative elements to one side of the array\\Move all the negative elements to one side of the array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two pointer",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Move all the negative elements to one side of the array\\Two pointer.py"
+        },
+        {
+          "sub_question_name": "Parition of QS",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Move all the negative elements to one side of the array\\Parition of QS.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Move all the negative elements to one side of the array\\Sorting.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Sort an array of only 0, 1 and 2": {
+      "question_name": "Sort an array of only 0, 1 and 2",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Sort an array of only 0, 1 and 2\\Sort an array of only 0, 1 and 2.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Three Pointer",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Sort an array of only 0, 1 and 2\\Three Pointer.py"
+        },
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Sort an array of only 0, 1 and 2\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Sort an array of only 0, 1 and 2\\Sorting.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find common elements in 3 sorted arrays": {
+      "question_name": "Find common elements in 3 sorted arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find common elements in 3 sorted arrays\\Find common elements in 3 sorted arrays.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the maximum and minimum element in an array": {
+      "question_name": "Find the maximum and minimum element in an array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find the maximum and minimum element in an array\\Find the maximum and minimum element in an array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Tournament",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find the maximum and minimum element in an array\\Tournament.py"
+        },
+        {
+          "sub_question_name": "Linear",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find the maximum and minimum element in an array\\Linear.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Cyclically rotate an array by one.": {
+      "question_name": "Cyclically rotate an array by one.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Cyclically rotate an array by one\\Cyclically rotate an array by one.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find Missing and Duplicate Numbers in an Array (1 to N)": {
+      "question_name": "Find Missing and Duplicate Numbers in an Array (1 to N)",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Find Missing and Duplicate Numbers in an Array (1 to N).py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Multiple Swap Sort",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Multiple Swap Sort.py"
+        },
+        {
+          "sub_question_name": "Swap Sort",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Swap Sort.py"
+        },
+        {
+          "sub_question_name": "Xor",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Xor.py"
+        },
+        {
+          "sub_question_name": "Math",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Math.py"
+        },
+        {
+          "sub_question_name": "Dictionary",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Dictionary.py"
+        },
+        {
+          "sub_question_name": "Sort and Check",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find Missing and Duplicate Numbers in an Array (1 to N)\\Sort and Check.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Missing Element": {
+      "question_name": "Missing Element",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Missing Element\\Missing Element.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "xor",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Missing Element\\xor.py"
+        },
+        {
+          "sub_question_name": "hashtable",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Missing Element\\hashtable.py"
+        },
+        {
+          "sub_question_name": "Sorting",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Missing Element\\Sorting.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Array Pairs Sum": {
+      "question_name": "Array Pairs Sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Array Pairs Sum\\Array Pairs Sum.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two Pointers for sorted",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Array Pairs Sum\\Two Pointers for sorted.py"
+        },
+        {
+          "sub_question_name": "using hashtable",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Array Pairs Sum\\using hashtable.py"
+        },
+        {
+          "sub_question_name": "using set",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Array Pairs Sum\\using set.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Reversing": {
+      "question_name": "Reversing",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Reversing\\Reversing.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "inplace",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Reversing\\inplace.py"
+        }
+      ],
+      "is_blank": false
+    }
+  },
+  "Mathematics": {
+    "Other Bases to Decimal": {
+      "question_name": "Other Bases to Decimal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Other Bases to Decimal\\Other Bases to Decimal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "hex to decimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Other Bases to Decimal\\hex to decimal.py"
+        },
+        {
+          "sub_question_name": "octal to decimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Other Bases to Decimal\\octal to decimal.py"
+        },
+        {
+          "sub_question_name": "binary to decimal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Other Bases to Decimal\\binary to decimal.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Decimal to Other Bases": {
+      "question_name": "Decimal to Other Bases",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Decimal to Other Bases\\Decimal to Other Bases.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "decimal to hex",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Decimal to Other Bases\\decimal to hex.py"
+        },
+        {
+          "sub_question_name": "decimal to octal",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Decimal to Other Bases\\decimal to octal.py"
+        },
+        {
+          "sub_question_name": "decimal to binary",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Decimal to Other Bases\\decimal to binary.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Number Reverse": {
+      "question_name": "Number Reverse",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Number Reverse\\Number Reverse.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Number Palindrome": {
+      "question_name": "Number Palindrome",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Number Palindrome\\Number Palindrome.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "nth Fibonacci": {
+      "question_name": "nth Fibonacci",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\nth Fibonacci\\nth Fibonacci.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "DP(Top Down)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\nth Fibonacci\\DP(Top Down).py"
+        },
+        {
+          "sub_question_name": "DP(memoization)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\nth Fibonacci\\DP(memoization).py"
+        },
+        {
+          "sub_question_name": "Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\nth Fibonacci\\Recursive.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "Fibonacci": {
+      "question_name": "Fibonacci",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Fibonacci\\Fibonacci.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Prime Factors": {
+      "question_name": "Prime Factors",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Prime Factors\\Prime Factors.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Prime Number": {
+      "question_name": "Prime Number",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Prime Number\\Prime Number.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sieve of Eratosthenese",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Prime Number\\Sieve of Eratosthenese.py"
+        },
+        {
+          "sub_question_name": "Prime Numbers in a range",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Prime Number\\Prime Numbers in a range.py"
+        }
+      ],
+      "is_blank": false
+    },
+    "GCD": {
+      "question_name": "GCD",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\GCD\\GCD.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Leap Year": {
+      "question_name": "Leap Year",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Leap Year\\Leap Year.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Factorial": {
+      "question_name": "Factorial",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Factorial\\Factorial.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "DP",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Factorial\\DP.py"
+        },
+        {
+          "sub_question_name": "iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Mathematics\\Factorial\\iterative.py"
+        }
+      ],
+      "is_blank": false
+    }
+  }
+}
