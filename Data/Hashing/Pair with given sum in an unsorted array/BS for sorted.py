@@ -5,6 +5,10 @@ Link: [link]()
 #### Sub_question_name: BS for sorted 
 Link: [link]()
 
+## This is not binary Search, it is just 2 pointer techquine
+It sorts the array and uses search to find every pair
+
+**O(nlogn + n)**
 '''
 
 def get_pair_sums(arr, sum):

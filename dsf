@@ -24,15 +24,12 @@ Other Bases to Decimal
 .octal to decimal
 .hex to decimal
 
-
-
 # Arrays
 Reversing
 .inplace
 Array Pairs Sum!
 .using set
 .using hashtable
-.Two Pointers for sorted
 Missing Element!
 .Sorting
 .hashtable
@@ -73,7 +70,6 @@ Merge 2 sorted Arrays!
 .Add both array and sort them
 .Merge part of merge sort (uses extra space)
 .Similar to insertion sort
-.Gap Method
 Merge Intervals!
 .Sort and Check All
 .Sort and merge interval better
@@ -82,40 +78,24 @@ Count Inversion!
 .brute
 .Optimal (Merge sort)
 
-Rearrange the array in alternating positive and negative items!
-.With Extra Space
-.Without Extra Space and Stable
-.Without Extra Space and Instable
-.No DS
+Rearrange the array in alternating positive and negative items with O(1) extra space
 Find if there is any subarray with sum equal to 0
-.Print subarray indices
 
 Find factorial of a large number
-Maximum product subarray 
+find maximum product subarray
+Find longest consecutive subsequence
+Given an array of size n and a number k, fin all elements that appear more than " n/k " times.
 Maximum profit by buying and selling a share atmost twice
-Find whether an array is a subset of another array!
-.Naive
-.Sorting and BS
-.Sets
-.Frequency Array
+Find whether an array is a subset of another array
+Find the triplet that sum to a given value
 Chocolate Distribution problem
-Dutch National Flag
-.Three way partitioning of an array around a given value
+Smallest Subarray with sum greater than a given value
+Three way partitioning of an array around a given value
 Minimum swaps required bring elements less equal K together
 Minimum no. of operations required to make an array palindrome
 Median of 2 sorted arrays of equal size
 Median of 2 sorted arrays of different size
 
-
-Maximum sum such that no 2 elements are adjacent
-Product array Puzzle!
-.Prefix Suffix
-.Prefix Suffix Optimized
-.Log 
-.Power
-
-
--!
 Left Rotation of the array by 1
 Check if Sorted
 Left Rotation of the array by D places
@@ -134,111 +114,6 @@ Majority Element
 Minimum Consecutive Flips
 Sliding Window Technique
 Prefix Sum Technique
-
-
-
-
-
-# Hashing
-Tips!
-.Substring Template
-Count Distinct Elements!
-.Brute
-.Sorting
-.Hashing
-Count of the frequency of array elements!
-.Brute
-.Hashing
-.Hashing and Ordering
-Union/InterSection of Sorted Arrays!
-.Brute
-.Searching
-Union/InterSection of Unsorted Arrays
-.Brute
-.Searching
-Pair with given sum in an unsorted array!
-.Brute
-.Sorting and Two Pointers
-.Hashing
-.BS for sorted
-Quadruples of k sum!
-.Naive
-.N^3
-.N^2 logN
-.Hashing(N^2)
-Subarray with zero-sum!
-.Brute
-.Hashing
-Subarray with given sum
-.Count of subarrays
-Longest consecutive subsequence!
-.Sorting 
-.Hashing
-Find the triplet that sum to a given value!
-.Naive
-.Sorting
-.Hashing
-Longest subarray with a given sum
-Longest subarray with an equal number of 0’s and 1’s
-Longest common span with the same sum in a binary array
-Longest Consecutive Subsequence
-Count Distinct elements in every window
-More than n/k Occurences
-Optimized More than n/k Solution
-
-
-
-
-
-# Sliding Window
-Sliding Window!
-.Identification
-.Max Sum of k Consecutive Element BF
-.Max Sum of k Consecutive Element Sliding Window
-First negative number in every window of size k
-.Brute
-Largest/Smallest Subarray of Size k
-Smallest Subarray with sum greater than a given value
-
-
-
-
-
-# Matrix
-Spiral traversal on a Matrix!
-.Iterative
-.Recursive
-.DFS Recursive
-Find median in a row wise sorted matrix
-Find row with maximum no. of 1's!
-.BS
-.Optimized
-Print elements in sorted order using row-column wise sorted matrix
-Maximum size rectangle
-Find a specific pair in matrix!
-.Brute 
-.Optimized
-Rotate matrix by 90 degrees!
-.Brute
-.Transpose
-Kth smallest element in a row-cpumn wise sorted matrix
-Common elements in all rows of a given matrix
-
--!
-Multidimensional Matrix
-Pass Matrix as Argument
-Printing matrix in a snake pattern
-Diagonal Traversal
-Transposing a matrix
-Rotating a Matrix
-Check if the element is present in a row and column-wise sorted matrix.
-Boundary Traversal
-Spiral Traversal
-Matrix Multiplication
-Search in row-wise and column-wise Sorted Matrix
-
-
-
 
 
 #Recursion
@@ -265,35 +140,18 @@ Permutations (IP-OP)!
 .Permutations with change case
 Generate all balanced Paranthesis
 Print N-bit binary numbers having more 1's than 0's for any Prefix
--!
+
+---!
 Tail Recursion
 Split a string in a possible ways according to the list
 Next letter in alphabet
 Remove duplicates from the string
 Count the numbers of Occurences
 
-
-
-# Backtracking
-Rat in a maze!
-.Backtrack
-N-Queen Problem
-The Knight's tour
-Word Break Problem
-Remove Invalid Parentheses
-Sudoku Solver
-m Coloring Problem
-Print all palindromic partitions of a string
-Subset Sum Problem
-Tug of War
-
-
-
 #Pattern Printing
 Pyramid pattern using stars
 .Numbers
 Diamond pattern
-
 
 
 #String
@@ -313,22 +171,12 @@ Word Wrap Problem [VERY IMP]
 EDIT Distance [Very Imp]
 Find next greater number with same set of digits/Next Permutation [VVI]
 Word break Problem[ Very Imp]
-String Matching!
-.Naive String Matching
-.Rabin Karp Algo
-.KMP Algo
-Mobile keypad
-Minimum number of bracket reversals needed to make an expression balanced.
-Count All Palindromic Subsequence in a given String.
-Count of number of given string in 2D character array
-Search a Word in a 2D Grid of characters.
-Boyer Moore Algorithm for Pattern Searching.
-Converting Roman Numerals to Decimal
-
-
-
+Naive String Matching
+Rabin Karp Algo
+KMP Algo
 
 # Strings
+
 String Palindrome
 .Non Pythonic
 .Duplicate Char Java
@@ -350,9 +198,6 @@ Naive Pattern Matching
 Rabin Karp Algorithm
 KMP Algorithm
 
-
-
-
 # Sorting
 Bubble Sort http:\\geeks for geeks.com
 Selection Sort
@@ -363,28 +208,16 @@ Merge Sort
 Quick Sort
 Radix Sort
 
-
-
-
 # Stacks, Queues, Deques
-Implement Stacks:
-Implement 2 stack in an array
-.Implement "N" stacks in an Array
-Implement Stack using Queue!
-.Making Push Costly
-.Making Pop Costly
-Implement Stack using Deque
-Implement Queue:
-Implement "n" queue in an array
-Implement Queue using Stack
+Implement Stacks
+Implement Queue
+Implement Deques
 Implement Queue using 2 Stacks
-Implement Deques:
-
-
-
-
+Parentheses Check
 
 # Stacks
+Implement 2 stack in an array
+.Implement "N" stacks in an Array
 Find the middle element of a stack
 The celebrity Problem!
 .Brute
@@ -392,19 +225,13 @@ The celebrity Problem!
 .Stacks
 .Two Pointers
 Insert element at end of stack
+
 Arithmetic Expression evaluation
 Evaluation of Postfix expression
 Implement a method to insert an element at its bottom without using any other data structure.
 
-Parentheses Check 
-.Longest Valid Parentheses
-.Longest Valid Parenthesis (Stacks)
-Expression contains redundant bracket or Not
-Stack Permutations (Check if an array is stack permutation of other)
-Implement a Circular queue
-LRU Cache Implementationa
 
-Nearest Releated Problems*
+Nearest Releated Problems
 .NGL
 .NGR (Next Largest Element)
 .NSL
@@ -415,45 +242,18 @@ Max Area of Histogram
 Max area of Rectangle in Binary Matrix
 Rain Water Trapping
 .brute
-Sliding Window Maximum of Size k!
-.Brute 
-.
-
 Min Stack (Extra n no extra)!
 .With Extra Space
 .With Extra Space full
 .Without Extra Space
 Stacking using Heap
+Celebrity Problem
 Longest valid Parenthesis
 Iterative TOH
-
-
-# Two Pointers
-Count triplet with sum smaller than a given values!
-.Naive
-.Two Pointers
-
-
-
-
 
 # Search
 Search an element in an array where difference between adjacent elements is 1
 .Searching in an array where adjacent differ by at most k
-
-
-
-Sort array according to count of set bits
-minimum NO. of swaps required to sort the array
-Bishu and Soldiers
-Rasta and Kheshtak
-Kth smallest number again
-Find pivot element in a sorted array
-K-th Element of Two Sorted Arrays
-
-
-
-
 
 # Binary Search
 Binary Search!
@@ -478,8 +278,9 @@ Square root of a Number!
 .BS
 Fixed Point (Value equal to index)
 
-Sort and BS:!
+Sort and BS!
 Find a pair with difference k
+
 Binary Search on Answer Concept!
 Peak Element
 .Maximum element in a Bitonic Array
@@ -499,17 +300,21 @@ Find pair in an  array which gives sum X
 .Sorted
 .Unsorted
 .For triplet
-Median of two sorted arrays 
-Majority Element 
+Median of two sorted arrays
+Majority Element
 
 
-
-
-
-
-
-
-
+# Matrix
+Multidimensional Matrix
+Pass Matrix as Argument
+Printing matrix in a snake pattern
+Transposing a matrix
+Rotating a Matrix
+Check if the element is present in a row and column-wise sorted matrix.
+Boundary Traversal
+Spiral Traversal
+Matrix Multiplication
+Search in row-wise and column-wise Sorted Matrix
 
 # Graphs
 DFS
@@ -525,10 +330,9 @@ Kruskal's Alg
 Floyd Warshall Alg
 Detecting Cycle
 .Using DFS
-.Directed Graph
 .Undirected Graph
-
-Topological Sorting 
+.Directed Graph
+Topological Sorting
 .Topo Sort Adjacency
 .Kahn's BFS Based Algorithm
 .DFS Based Algorithm
@@ -537,7 +341,7 @@ Topological Sorting
 
 
 #Linked List
-Linked List Implementation 
+Linked List Implementation
 .Circular
 .Double
 Reverse LinkedList!
@@ -558,25 +362,15 @@ Add "1" to a number represented as a LL!
 .Reversing way
 .Recursion
 .Optimal
-Add two numbers represented by LL!
-.Recursion
-.Iterative
+Add two numbers represented by LL.
 Intersection of two Sorted Linked List.
 Intersection Point of two Linked Lists.
-.Sets(hashing)
-.Count the nodes
-.Make a Circle
-.Two Pointer
-Merge Sort For Linked lists.[VI]*
-Quicksort for Linked Lists.[VI]*
+Merge Sort For Linked lists.[Very Important]
+Quicksort for Linked Lists.[Very Important]
 Middle Element of a LL
-Check if a LL is a CLL
-.Sets
-.Floyd
+Check if a LL is a CLL.
 Split a CLL into two halves.
-Singly LL is a palindrome or not?!
-.Stacks
-.Reverse the list
+Singly LL is a palindrome or not?
 Deletion from a CLL
 Reverse a DLL.
 Find pairs with a given sum in a DLL.
@@ -607,9 +401,6 @@ Merge two Sorted Linked Lists
 Palindrome Linked List
 
 
-
-
-
 # Binary Trees
 Level Order Traversal (BFS)
 Reverse Level Order Traversal
@@ -619,7 +410,7 @@ Diameter of Tree
 .Using DFS
 Mirror of Tree
 Traversal!
-.Inorder 
+.Inorder
 .Inorder Iterative
 .Preorder
 .Preorder Iterative
@@ -634,36 +425,6 @@ Check Binary Tree!
 .Recursive
 .Optimal
 Diagonal Traversal
-Binary Tree to Doubly Linked List
-Binary tree into Sum tree
-Construct Binary tree from Inorder and preorder traversal!
-.Naive
-.Hashing
-.Two DS
-Construct Binary tree from Inorder and postorder traversal!
-.Naive
-.Hashing
-Find minimum swaps required to convert a Binary tree into BST
-Check if Binary tree is Sum tree or NOT!
-.Naive
-.Tricky
-Check if all leaf NOdes are at same level or NOt
-Check if a Binary Tree contains duplicate subtrees of size 2 or more*
-Check if 2 trees are mirror or not
-Sum of Nodes on the Longest path from root to leaf Node 
-Check if given graph is tree or Not*
-Find Largest subtree sum in a tree
-Maximum Sum of Nodes in Binary tree such that NO two are adjacent!
-.Recursive
-.Pairs
-Print all "K" Sum paths in a Binary tree
-Find LCA in a Binary tree
-.Better
-Find distance between 2 Nodes in a Binary tree
-Kth Ancestor of Node in a Binary tree
-Find all Duplicate subtrees in a Binary tree*
-Tree Isomorphism Problem
-
 
 
 
@@ -671,24 +432,22 @@ Tree Isomorphism Problem
 Count a number of leaf nodes in a given binary tree?
 Count Nodes in a complete Binary Tree
 Binary search in a given array?
-Size of Binary Tree 
-Maximum in Binary Tree 
-Height of Binary Tree 
-Print Nodes at K distance 
-Print Left View of Binary Tree 
-Children Sum Property 
-Check for Balanced Binary Tree 
-Maximum Width of Binary Tree 
-Convert Binary Tree to Doubly Linked List 
-Construct Binary Tree from Inorder and Preorder 
+Size of Binary Tree
+Maximum in Binary Tree
+Height of Binary Tree
+Print Nodes at K distance
+Print Left View of Binary Tree
+Children Sum Property
+Check for Balanced Binary Tree
+Maximum Width of Binary Tree
+Convert Binary Tree to Doubly Linked List
+Construct Binary Tree from Inorder and Preorder
 Tree Traversal Spiral Form
-The diameter of a Binary Tree 
+The diameter of a Binary Tree
 LCA problem with an efficient solution
 Burn A Binary Tree from a Leaf
 
 Serialize and Deserialize a Binary tree
-
-
 
 
 # Binary Tree
@@ -698,31 +457,28 @@ Travesal
 .inorder iterative
 .preorder
 .postorder
-Insertion in BST 
-Deletion in BST 
-Floor in BST 
-Self Balancing BST 
-AVL Tree 
-Red Black Tree 
+Insertion in BST
+Deletion in BST
+Floor in BST
+Self Balancing BST
+AVL Tree
+Red Black Tree
 BST Introduction
 TreeSet & TreeMap in Java
 The ceiling of a key in BST
-Ceiling on the left side in an array 
-Find Kth Smallest in BST 
-Check for BST 
-Fix BST with Two Nodes Swapped 
-Pair Sum with given BST 
-Vertical Sum in a Binary Tree 
-Vertical Traversal of Binary Tree 
-Top View of Binary Tree 
+Ceiling on the left side in an array
+Find Kth Smallest in BST
+Check for BST
+Fix BST with Two Nodes Swapped
+Pair Sum with given BST
+Vertical Sum in a Binary Tree
+Vertical Traversal of Binary Tree
+Top View of Binary Tree
 Bottom View of Binary Tree
-
-
-
 
 # Greedy Algorithms
 Fractional Knapsack
-Job Sequencing 
+Job Sequencing
 Coin Piles
 N meetings in a room
 Maximum Train in a Station
@@ -730,27 +486,38 @@ Minimum Number of Platforms/trains/systems
 Maximum Stocks if i stocks can be bought on i-th day
 Max and Min N candies
 Minimum Cash Flow
-Minimum Cost to cut a board into squares
-Island Survival
-Find maximum meetings in one room
-Maximum product subset of an array
-Maximize array sum after K negations!
-.Simple
+
+
+# Hashing
+Count Distinct Elements!
+.Brute
 .Sorting
-.Heap
-Maximize the sum of arr[i]*i
-Maximum sum of absolute difference of an array
-.Maximize sum of consecutive differences in a circular array
-Minimum sum of absolute difference of pairs of two arrays
-Shortest Job First (or SJF) CPU Scheduling
-LRU
-
-
-
-
-
-
-
+.Hashing
+Count of the frequency of array elements!
+.Brute
+.Hashing
+.Hashing and Ordering
+Union/InterSection of Sorted Arrays!
+.Brute
+.Searching
+Union/InterSection of Unsorted Arrays
+.Brute
+.Searching
+Pair with given sum in an unsorted array!
+.Brute
+.Hashing
+.BS for sorted
+Subarray with zero-sum!
+.Brute
+.Hashing
+Subarray with given sum
+Longest subarray with a given sum
+Longest subarray with an equal number of 0’s and 1’s
+Longest common span with the same sum in a binary array
+Longest Consecutive Subsequence
+Count Distinct elements in every window
+More than n/k Occurences
+Optimized More than n/k Solution
 
 
 
@@ -767,32 +534,17 @@ kth Largest Element
 .implemented heap
 K largest Elements
 K Smallest Elements
-Nearly Sorted Array/ K Sorted Array*
-.Merge K sorted Arrays
+Nearly Sorted Array/ K Sorted Array
 K Closest Numbers
 Top K frequency
 Frequency Sort
 K Closest Points to Origin
 Connect Ropes to Minimise the Cost
 Sum of Elements between k1 smallest and k2 smallest numbers
-Kth largest sum continuous subarrays
-Reorganize strings
-Merge "K" Sorted Linked Lists*
-Reorganize strings
-Merge "K" Sorted Linked Lists*
-Smallest range in "K" Lists
-Median in a stream of Integers
-Check if a Binary Tree is Heap
-
 ---!
 Median of a Stream
-.Insertion Sort
 Merge K Sorted Array
 Max amount of toys that can be purchased with amount K
-
-
-
-
 
 # DP
 DP Identification
@@ -803,7 +555,7 @@ DP Identification
 0 - 1 Variations!
 .Identification
 .Subset Sum
-.Subset Sum Recursive 
+.Subset Sum Recursive
 .Equal Sum Paritition
 .Count of Subset Sum
 .Count of Subset Sum Recursive
@@ -812,7 +564,7 @@ DP Identification
 .Number of Subset of given difference
 .Target Sum
 
-Unbounded Knapsack 
+Unbounded Knapsack
 .Unbounded Knapsack arr Recursive
 .Unbouded Knapsack array T
 
@@ -883,10 +635,10 @@ Edit Distance Problem!
 .DP Approach
 Longest Increasing Subsequence Problem!
 .Naive Approach
-.Efficient Approach 
-Minimum Jumps to reach at the end 
-Optimal Strategy for a Game 
-Variation of Longest Increasing Subsequence 
+.Efficient Approach
+Minimum Jumps to reach at the end
+Optimal Strategy for a Game
+Variation of Longest Increasing Subsequence
 Count BST with nkeys
 Maximum Sum with No Consecutive
 
@@ -898,10 +650,6 @@ DP on Grid
 Others
 
 
-
-
-
-
 # DP on Trees
 Identification
 Diameter of a Binary Tree
@@ -911,11 +659,14 @@ Maximum Path Sum | from any node to any node
 # F2F
 
 
-
-
-
-
-
+# Sliding Window
+Sliding Window!
+.Identification
+.Max Sum of k Consecutive Element BF
+.Max Sum of k Consecutive Element Sliding Window
+First negative number in every window of size k
+.Brute
+Largest/Smallest Subarray of Size k
 
 
 # Python

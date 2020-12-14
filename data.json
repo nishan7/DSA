@@ -2547,6 +2547,55 @@
     }
   },
   "Search": {
+    "K-th Element of Two Sorted Arrays": {
+      "question_name": "K-th Element of Two Sorted Arrays",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\K-th Element of Two Sorted Arrays\\K-th Element of Two Sorted Arrays.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find pivot element in a sorted array": {
+      "question_name": "Find pivot element in a sorted array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Find pivot element in a sorted array\\Find pivot element in a sorted array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Kth smallest number again": {
+      "question_name": "Kth smallest number again",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Kth smallest number again\\Kth smallest number again.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Rasta and Kheshtak": {
+      "question_name": "Rasta and Kheshtak",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Rasta and Kheshtak\\Rasta and Kheshtak.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Bishu and Soldiers": {
+      "question_name": "Bishu and Soldiers",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Bishu and Soldiers\\Bishu and Soldiers.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "minimum NO. of swaps required to sort the array": {
+      "question_name": "minimum NO. of swaps required to sort the array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\minimum NO. of swaps required to sort the array\\minimum NO. of swaps required to sort the array.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Sort array according to count of set bits": {
+      "question_name": "Sort array according to count of set bits",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Sort array according to count of set bits\\Sort array according to count of set bits.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
     "Search an element in an array where difference between adjacent elements is 1": {
       "question_name": "Search an element in an array where difference between adjacent elements is 1",
       "link": "",
@@ -2559,6 +2608,26 @@
         }
       ],
       "is_blank": false
+    }
+  },
+  "Two Pointers": {
+    "Count triplet with sum smaller than a given values": {
+      "question_name": "Count triplet with sum smaller than a given values",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Two Pointers\\Count triplet with sum smaller than a given values\\Count triplet with sum smaller than a given values.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Two Pointers",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Two Pointers\\Count triplet with sum smaller than a given values\\Two Pointers.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Two Pointers\\Count triplet with sum smaller than a given values\\Naive.py"
+        }
+      ],
+      "is_blank": true
     }
   },
   "Stacks": {
@@ -3913,6 +3982,34 @@
       ],
       "is_blank": true
     },
+    "Quadruples of k sum": {
+      "question_name": "Quadruples of k sum",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Hashing\\Quadruples of k sum\\Quadruples of k sum.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Hashing(N^2)",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Quadruples of k sum\\Hashing(N^2).py"
+        },
+        {
+          "sub_question_name": "N^2 logN",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Quadruples of k sum\\N^2 logN.py"
+        },
+        {
+          "sub_question_name": "N^3",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Quadruples of k sum\\N^3.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Quadruples of k sum\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
     "Pair with given sum in an unsorted array": {
       "question_name": "Pair with given sum in an unsorted array",
       "link": "",
@@ -3927,6 +4024,11 @@
           "sub_question_name": "Hashing",
           "link": "",
           "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Sorting and Two Pointers",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Hashing\\Pair with given sum in an unsorted array\\Sorting and Two Pointers.py"
         },
         {
           "sub_question_name": "Brute",
@@ -4156,6 +4258,48 @@
       "sub_questions": [],
       "is_blank": false
     },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Product array Puzzle": {
+      "question_name": "Product array Puzzle",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Product array Puzzle\\Product array Puzzle.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Power",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Product array Puzzle\\Power.py"
+        },
+        {
+          "sub_question_name": "Log",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Product array Puzzle\\Log.py"
+        },
+        {
+          "sub_question_name": "Prefix Suffix Optimized",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Product array Puzzle\\Prefix Suffix Optimized.py"
+        },
+        {
+          "sub_question_name": "Prefix Suffix",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Product array Puzzle\\Prefix Suffix.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Maximum sum such that no 2 elements are adjacent": {
+      "question_name": "Maximum sum such that no 2 elements are adjacent",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Arrays\\Maximum sum such that no 2 elements are adjacent\\Maximum sum such that no 2 elements are adjacent.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
     "Median of 2 sorted arrays of different size": {
       "question_name": "Median of 2 sorted arrays of different size",
       "link": "",
@@ -4257,7 +4401,13 @@
       "question_name": "Find if there is any subarray with sum equal to 0",
       "link": "",
       "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find if there is any subarray with sum equal to 0\\Find if there is any subarray with sum equal to 0.py",
-      "sub_questions": [],
+      "sub_questions": [
+        {
+          "sub_question_name": "Print subarray indices",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Find if there is any subarray with sum equal to 0\\Print subarray indices.py"
+        }
+      ],
       "is_blank": false
     },
     "Rearrange the array in alternating positive and negative items": {
@@ -4336,6 +4486,11 @@
       "link": "",
       "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Merge 2 sorted Arrays.py",
       "sub_questions": [
+        {
+          "sub_question_name": "Gap Method",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Arrays\\Merge 2 sorted Arrays\\Gap Method.py"
+        },
         {
           "sub_question_name": "Similar to insertion sort",
           "link": "",
