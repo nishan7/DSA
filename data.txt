@@ -24,6 +24,8 @@ Other Bases to Decimal
 .octal to decimal
 .hex to decimal
 
+
+
 # Arrays
 Reversing
 .inplace
@@ -144,8 +146,14 @@ Union/InterSection of Unsorted Arrays
 .Searching
 Pair with given sum in an unsorted array!
 .Brute
+.Sorting and Two Pointers
 .Hashing
 .BS for sorted
+Quadruples of k sum!
+.Naive
+.N^3
+.N^2 logN
+.Hashing(N^2)
 Subarray with zero-sum!
 .Brute
 .Hashing
