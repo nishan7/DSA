@@ -4,7 +4,7 @@ Link: [link](http:\\geeksforgeeks.com)
 
 
 Prim's Algorithm is used to find the minimum spanning tree from a graph
-** TE: O(V^2)  Adjancency list O(ElogV)**
+
 
 1) Create a set mstSet that keeps track of vertices already included in MST. 
 2) Assign a key value to all vertices in the input graph. Initialize all key values as INFINITE. Assign key value as 0 for the first vertex so that it is picked first. 
@@ -14,6 +14,8 @@ A) Pick a vertex u which is not there in mstSet and has minimum key value.
 B) Include u to mstSet.    
 C) Update key value of all adjacent vertices of u. To update the key values, iterate through all adjacent vertices. For every adjacent vertex v, if weight of edge u-v is less than the previous key value of v, update the key value as weight of u-v
 
+
+**TE: O(V^2)  Adjancency list O(ElogV)**
 '''
 
 def find_closest(n, graph, src, visited, distance):

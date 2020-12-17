@@ -17,7 +17,7 @@ def utility(n, start, graph, visited, parent):
         if visited[neigbour] == False:
             if utility(n, neigbour, graph, visited, start) == True:
                 return True
-        elif neigbour != parent:
+        elif neigbour != parent:  # In undirected graph as there is self link so neighbour == parent can happen
             return True
 
     return False

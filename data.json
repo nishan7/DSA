@@ -1390,6 +1390,106 @@
       "is_blank": false
     }
   },
+  "BST": {
+    "Merge two BST [ V.V.V>IMP ]*": {
+      "question_name": "Merge two BST [ V.V.V>IMP ]*",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Merge two BST [ V.V.VIMP ]\\Merge two BST [ V.V.VIMP ].py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Convert a NOrmal BST into a Balanced BST": {
+      "question_name": "Convert a NOrmal BST into a Balanced BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Convert a NOrmal BST into a Balanced BST\\Convert a NOrmal BST into a Balanced BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Convert Binary tree into BST": {
+      "question_name": "Convert Binary tree into BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Convert Binary tree into BST\\Convert Binary tree into BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Construct BST from preorder traversal": {
+      "question_name": "Construct BST from preorder traversal",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Construct BST from preorder traversal\\Construct BST from preorder traversal.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Optimal Iterative",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\BST\\Construct BST from preorder traversal\\Optimal Iterative.py"
+        },
+        {
+          "sub_question_name": "Optimal Recursive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\BST\\Construct BST from preorder traversal\\Optimal Recursive.py"
+        },
+        {
+          "sub_question_name": "Preorder and Inorder",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\BST\\Construct BST from preorder traversal\\Preorder and Inorder.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\BST\\Construct BST from preorder traversal\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "Find LCA  of 2 Nodes in a BST": {
+      "question_name": "Find LCA  of 2 Nodes in a BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Find LCA  of 2 Nodes in a BST\\Find LCA  of 2 Nodes in a BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Populate inorder successor of all Nodes": {
+      "question_name": "Populate inorder successor of all Nodes",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Populate inorder successor of all Nodes\\Populate inorder successor of all Nodes.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Flatten BST": {
+      "question_name": "Flatten BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Flatten BST\\Flatten BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if a tree is a BST or Not": {
+      "question_name": "Check if a tree is a BST or Not",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Check if a tree is a BST or Not\\Check if a tree is a BST or Not.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find inorder successor and inorder predecessor in a BST": {
+      "question_name": "Find inorder successor and inorder predecessor in a BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Find inorder successor and inorder predecessor in a BST\\Find inorder successor and inorder predecessor in a BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find min and max value in a BST": {
+      "question_name": "Find min and max value in a BST",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Find min and max value in a BST\\Find min and max value in a BST.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Implement": {
+      "question_name": "Implement",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\BST\\Implement\\Implement.py",
+      "sub_questions": [],
+      "is_blank": false
+    }
+  },
   "Binary Trees": {
     "Tree Isomorphism Problem": {
       "question_name": "Tree Isomorphism Problem",
@@ -2582,19 +2682,47 @@
       "sub_questions": [],
       "is_blank": false
     },
-    "minimum NO. of swaps required to sort the array": {
-      "question_name": "minimum NO. of swaps required to sort the array",
-      "link": "",
-      "path": "D:\\Projects\\DSA\\Data\\Search\\minimum NO. of swaps required to sort the array\\minimum NO. of swaps required to sort the array.py",
-      "sub_questions": [],
-      "is_blank": false
-    },
     "Sort array according to count of set bits": {
       "question_name": "Sort array according to count of set bits",
       "link": "",
       "path": "D:\\Projects\\DSA\\Data\\Search\\Sort array according to count of set bits\\Sort array according to count of set bits.py",
       "sub_questions": [],
       "is_blank": false
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "Minimum no. of swaps required to sort the array": {
+      "question_name": "Minimum no. of swaps required to sort the array",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Search\\Minimum no. of swaps required to sort the array\\Minimum no. of swaps required to sort the array.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Vectors",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Search\\Minimum no. of swaps required to sort the array\\Vectors.py"
+        },
+        {
+          "sub_question_name": "Sort and using graphs",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Search\\Minimum no. of swaps required to sort the array\\Sort and using graphs.py"
+        },
+        {
+          "sub_question_name": "Hashing",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Search\\Minimum no. of swaps required to sort the array\\Hashing.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Search\\Minimum no. of swaps required to sort the array\\Naive.py"
+        }
+      ],
+      "is_blank": true
     },
     "Search an element in an array where difference between adjacent elements is 1": {
       "question_name": "Search an element in an array where difference between adjacent elements is 1",
@@ -3143,6 +3271,54 @@
     }
   },
   "String": {
+    "Program to generate all possible valid IP addresses from given  string.": {
+      "question_name": "Program to generate all possible valid IP addresses from given  string.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Program to generate all possible valid IP addresses from given  string\\Program to generate all possible valid IP addresses from given  string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the longest common subsequence between two strings.": {
+      "question_name": "Find the longest common subsequence between two strings.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Find the longest common subsequence between two strings\\Find the longest common subsequence between two strings.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum number of swaps for bracket balancing.": {
+      "question_name": "Minimum number of swaps for bracket balancing.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Minimum number of swaps for bracket balancing\\Minimum number of swaps for bracket balancing.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the Second Most repeated word in string.": {
+      "question_name": "Find the Second Most repeated word in string.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Find the Second Most repeated word in string\\Find the Second Most repeated word in string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Number of flips to make binary string alternate": {
+      "question_name": "Number of flips to make binary string alternate",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Number of flips to make binary string alternate\\Number of flips to make binary string alternate.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Longest Common Prefix": {
+      "question_name": "Longest Common Prefix",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Longest Common Prefix\\Longest Common Prefix.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Brute",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\String\\Longest Common Prefix\\Brute.py"
+        }
+      ],
+      "is_blank": true
+    },
     "Converting Roman Numerals to Decimal": {
       "question_name": "Converting Roman Numerals to Decimal",
       "link": "",
@@ -3164,10 +3340,10 @@
       "sub_questions": [],
       "is_blank": false
     },
-    "Count of number of given string in 2D character array": {
-      "question_name": "Count of number of given string in 2D character array",
+    "Find string in 2D character array": {
+      "question_name": "Find string in 2D character array",
       "link": "",
-      "path": "D:\\Projects\\DSA\\Data\\String\\Count of number of given string in 2D character array\\Count of number of given string in 2D character array.py",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Find string in 2D character array\\Find string in 2D character array.py",
       "sub_questions": [],
       "is_blank": false
     },

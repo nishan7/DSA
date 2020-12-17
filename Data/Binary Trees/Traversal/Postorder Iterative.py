@@ -28,7 +28,7 @@ def postorder(root):
 
     print(ans)
 
-# 2 4 3 6 5
+# [2, 4, 3, 9, 6, 5]
 
 
 class Node:
@@ -50,7 +50,7 @@ root.right.right = Node(9)
 #     5
 #    /  \        Inorder   2 3 4 5 6
 #   3    6       Preorder
-#  / \    \       Postorder 2 4 3 6 5
+#  / \    \       Postorder 2 4 3 9 6 5
 # 2   4    9
 
 

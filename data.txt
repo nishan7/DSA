@@ -320,11 +320,17 @@ String Matching!
 Mobile keypad
 Minimum number of bracket reversals needed to make an expression balanced.
 Count All Palindromic Subsequence in a given String.
-Count of number of given string in 2D character array
+Find string in 2D character array
 Search a Word in a 2D Grid of characters.
 Boyer Moore Algorithm for Pattern Searching.
 Converting Roman Numerals to Decimal
-
+Longest Common Prefix!
+.Brute
+Number of flips to make binary string alternate
+Find the Second Most repeated word in string.
+Minimum number of swaps for bracket balancing.
+Find the longest common subsequence between two strings.
+Program to generate all possible valid IP addresses from given  string.
 
 
 
@@ -440,11 +446,15 @@ Count triplet with sum smaller than a given values!
 # Search
 Search an element in an array where difference between adjacent elements is 1
 .Searching in an array where adjacent differ by at most k
+Minimum no. of swaps required to sort the array!
+.Naive
+.Hashing
+.Sort and using graphs
+.Vectors
 
-
-
+-!
 Sort array according to count of set bits
-minimum NO. of swaps required to sort the array
+
 Bishu and Soldiers
 Rasta and Kheshtak
 Kth smallest number again
@@ -664,6 +674,24 @@ Kth Ancestor of Node in a Binary tree
 Find all Duplicate subtrees in a Binary tree*
 Tree Isomorphism Problem
 
+
+# BST
+Implement
+Find min and max value in a BST
+Find inorder successor and inorder predecessor in a BST
+Check if a tree is a BST or Not 
+Flatten BST
+Populate inorder successor of all Nodes
+Find LCA  of 2 Nodes in a BST
+Construct BST from preorder traversal!
+.Naive
+.Preorder and Inorder
+.Optimal Recursive
+.Optimal Iterative
+
+Convert Binary tree into BST
+Convert a NOrmal BST into a Balanced BST
+Merge two BST [ V.V.V>IMP ]*
 
 
 
