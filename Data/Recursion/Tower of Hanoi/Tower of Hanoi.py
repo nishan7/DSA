@@ -9,6 +9,7 @@ elif even => from src to temp
 
 '''
 count = 0
+
 def hoi(n, src, temp, dest):
     global count
     count += 1

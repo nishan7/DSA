@@ -25,9 +25,15 @@ def style(field):
 #
 # environment.tests['is_java'] = is_link_field
 @app.template_filter()
-def is_java_file(file_name):
-    print(file_name)
-    return file_name.endswith('java')
+def programming_language(file_name):
+    if file_name.endswith('java'):
+        return 'language-java'
+    elif file_name.endswith('py'):
+        return 'language-python'
+    elif file_name.endswith('c') or file_name.endswith('cpp'):
+        return 'language-clike'
+
+    return 'language-python'
 
 
 global_topic = topics[0]

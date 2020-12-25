@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>DSA</title>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-    <link rel="stylesheet" href="/resources/demos/style.css">
-    <link rel="stylesheet" href="../static/prism.css">
-    <script src="../static/prism.js"></script>
+
+    <link href="../static/prism.css" rel="stylesheet" />
+
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     {#
@@ -30,6 +30,7 @@
 </head>
 
 <body>
+<script src="../static/prism.js"></script>
 <script>
     function open_file(file_name) {
         $.get(file_name).done(function () {
@@ -72,7 +73,6 @@
     {#    Checking for hr  #}
     {% if question_name != '-' %}
 
-
         {#    Question Name                                                                #}
         <a target="_blank" href="https://www.google.com/search?q={{ question_name }} +  code">
             <h3 style="{{ question_name|style }}">{{ loop.index }}. {{ question_name }}</h3>
@@ -96,16 +96,16 @@
                     <small><a onclick="open_file('{{ data.current_topic }}/{{ sub_question.id }}');return false;"
                               href="#">{{ sub_question.path }}</a></small>
                     <small>{{ sub_question.info | safe }}</small>
-                    <small></small> {% if (sub_question.path|is_java_file) %}
-                    <pre><code class="language-java">{{ sub_question.code }}</code></pre> {% else %}
-                    <pre><code class="language-python">{{ sub_question.code }}</code></pre> {% endif %}
-                    </small>
+                     <pre><code class="{{ sub_question.path | programming_language }}">{{ sub_question.code }}</code></pre>
+
                 </div>
             {% endfor %}
 
         </div>
     {% else %}
-        <br><hr><hr>
+        <br>
+        <hr>
+        <hr>
 
     {% endif %}
 
