@@ -7,6 +7,7 @@ import reusables
 from pathvalidate import sanitize_filename
 from slugify import slugify
 
+default_language = reusables.load_json('webserver_config.json')['default_language']
 file_text = open('data.txt').read()
 
 # all_questions = reusables.load_json('data.json')
@@ -19,8 +20,12 @@ def create_filesystem(topic_name, all_questions):
 
     if topic_name == 'Java':
         EXT = 'java'
-    else:
+    elif topic_name == 'Python':
         EXT = 'py'
+    elif topic_name == 'CPP':
+        EXT = 'cpp'
+    else:
+        EXT = default_language  # Defautl lang is stored as extentions
 
     for question_name, question_value in all_questions[topic_name].items():
         question_value['question_name'] = question_value['question_name'].strip('!')
@@ -29,7 +34,7 @@ def create_filesystem(topic_name, all_questions):
 
         if EXT == 'py':
             markdown_info = """'''\n#### Name:  {}\nLink: [link]({})\n\n'''""".format(question_name, link)
-        elif EXT == 'java':
+        else: # for java cpp
             markdown_info = """/*\n#### Name:  {}\nLink: [link]({})\n\n*/""".format(question_name, link)
 
         # info_md = """\n#### Name:  {}\nLink: [link]({})\n\n""".format(question_name, link)
@@ -37,16 +42,16 @@ def create_filesystem(topic_name, all_questions):
         if not os.path.exists('Data/{}/{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name), )):
             os.mkdir('Data/{}/{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name), ))
 
-        py_file = 'Data/{}/{}/{}.{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name),
+        file_name = 'Data/{}/{}/{}.{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name),
                                             sanitize_filename(question_name), EXT)
         # md_file = sanitize_filename(        'Data/{}/{}/{}.md'.format(topic_name, question_name, question_name))
 
-        if not os.path.exists(py_file) and not question_value['is_blank']:
+        if not os.path.exists(file_name) and not question_value['is_blank']:
             print(question_name)
-            with open(py_file, 'w') as fp:
+            with open(file_name, 'w') as fp:
                 fp.write(markdown_info)
 
-        all_questions[topic_name][question_name]['path'] = os.path.abspath(py_file)
+        all_questions[topic_name][question_name]['path'] = os.path.abspath(file_name)
 
         # if not os.path.exists(md_file):
         #     with open(md_file, 'w') as fp:
@@ -59,7 +64,7 @@ def create_filesystem(topic_name, all_questions):
             if EXT == 'py':
                 markdown_info = """'''\n#### Name:  {}\nLink: [link]({})\n\n#### Sub_question_name: {} \nLink: [link]({})\n\n'''""".format(
                     question_name, link, sub_question_name, sub_question_link)
-            elif EXT == 'java':
+            else:
                 markdown_info = """/*\n#### Name:  {}\nLink: [link]({})\n\n#### Sub_question_name: {} \nLink: [link]({})\n\n*/""".format(
                     question_name, link, sub_question_name, sub_question_link)
 
@@ -72,15 +77,15 @@ def create_filesystem(topic_name, all_questions):
                     'Data/{}/{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name), )):
                 os.mkdir('Data/{}/{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name), ))
 
-            py_file = 'Data/{}/{}/{}.{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name),
+            file_name = 'Data/{}/{}/{}.{}'.format(sanitize_filename(topic_name), sanitize_filename(question_name),
                                                 sanitize_filename(sub_question_name), EXT)
 
             # md_file = sanitize_filename('Data/{}/{}/{}.md'.format(topic_name, question_name, sub_question_name))
 
-            if not os.path.exists(py_file):
-                with open(py_file, 'w') as fp:
+            if not os.path.exists(file_name):
+                with open(file_name, 'w') as fp:
                     fp.write(markdown_info)
-            all_questions[topic_name][question_name]['sub_questions'][idx]['path'] = os.path.abspath(py_file)
+            all_questions[topic_name][question_name]['sub_questions'][idx]['path'] = os.path.abspath(file_name)
 
             # if not os.path.exists(md_file):
             #     with open(md_file, 'w') as fp:

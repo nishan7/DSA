@@ -1,5 +1,6 @@
 import os
 
+import reusables
 from flask import Flask, render_template, redirect, request
 from jinja2 import environment
 
@@ -11,9 +12,15 @@ app.jinja_env.filters['style'] = lambda u: style(u)
 data, topics = create_filesystem.get_data_for_html()
 topics = topics[::-1]
 
+webserver_config = reusables.load_json('webserver_config.json')
+editor_path = webserver_config['editor_path']
+
 
 # APP = 'start "D:\\!t\\PyCharm 2020.2\\bin\\pycharm64.exe" "{}"'
-APP = '"C:\\Users\\Nishan Paudel\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" "{}"'
+# APP = '"C:\\Users\\Nishan Paudel\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" "{}"'  # This will open in same window
+# APP = '"code" "{}"'  # This will open in new VSCODE window
+
+APP = '"' + editor_path + '"' + ' "{}"'
 
 
 def style(field):
@@ -40,8 +47,7 @@ global_topic = topics[0]
 @app.route('/config')
 def open_config_file():
     print(global_topic)
-    os.popen(APP.format('D:\Projects\DSA\data.txt'))
-
+    os.popen(APP.format(webserver_config['config_file_path']))   #"D:\\Projects\\DSA\\data.txt"
     return redirect('/')
 
 
@@ -54,8 +60,8 @@ def open_path(topic, id):
     for question_name, question in data[topic].items():
         for subquestions in question['sub_questions']:
             id_path[subquestions['id']] = subquestions['path']
-    print(id in id_path.keys())
-    print(id_path[id])
+    # print(id in id_path.keys())
+    # print(APP.format(id_path[id]))
     os.popen(APP.format(id_path[id]))
     return redirect('/'+topic)
     # return render_template('main.html', data={'questions': data[topic], 'current_topic': topic, 'topics': topics})
