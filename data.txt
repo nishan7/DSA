@@ -199,7 +199,11 @@ First negative number in every window of size k
 .Brute
 Largest/Smallest Subarray of Size k
 Smallest Subarray with sum greater than a given value
-
+-!
+SW-H:!
+Write a program tofind the smallest window that contains all characters of string itself.!
+.Naive
+.Sliding Window and HashMap
 
 
 
@@ -331,7 +335,15 @@ Find the Second Most repeated word in string.
 Minimum number of swaps for bracket balancing.
 Find the longest common subsequence between two strings.
 Program to generate all possible valid IP addresses from given  string.
-
+Minimum characters to be added at front to make string palindrome
+Given a sequence of words, print all anagrams together
+Find the smallest window in a string containing all characters of another string
+Recursively remove all adjacent duplicates
+String matching where one string contains wildcard characters
+Function to find Number of customers who could not get a computer
+Transform One String to Another using Minimum Number of Given Operation
+Check if two given strings are isomorphic to each other
+Recursively print all sentences that can be formed from list of word lists
 
 
 # Strings
@@ -546,6 +558,8 @@ Topological Sorting
 
 
 
+
+
 #Linked List
 Linked List Implementation 
 .Circular
@@ -675,6 +689,10 @@ Find all Duplicate subtrees in a Binary tree*
 Tree Isomorphism Problem
 
 
+
+
+
+
 # BST
 Implement
 Find min and max value in a BST
@@ -692,6 +710,10 @@ Construct BST from preorder traversal!
 Convert Binary tree into BST
 Convert a NOrmal BST into a Balanced BST
 Merge two BST [ V.V.V>IMP ]*
+
+
+
+
 
 
 
@@ -715,6 +737,9 @@ LCA problem with an efficient solution
 Burn A Binary Tree from a Leaf
 
 Serialize and Deserialize a Binary tree
+
+
+
 
 
 
@@ -744,6 +769,10 @@ Vertical Sum in a Binary Tree
 Vertical Traversal of Binary Tree 
 Top View of Binary Tree 
 Bottom View of Binary Tree
+
+
+
+
 
 
 
@@ -812,11 +841,14 @@ Smallest range in "K" Lists
 Median in a stream of Integers
 Check if a Binary Tree is Heap
 
+
+
 ---!
 Median of a Stream
 .Insertion Sort
 Merge K Sorted Array
 Max amount of toys that can be purchased with amount K
+Rearrange characters in a string such that NO two adjacent are same
 
 
 

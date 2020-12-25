@@ -737,6 +737,13 @@
     }
   },
   "Heap": {
+    "Rearrange characters in a string such that NO two adjacent are same": {
+      "question_name": "Rearrange characters in a string such that NO two adjacent are same",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Heap\\Rearrange characters in a string such that NO two adjacent are same\\Rearrange characters in a string such that NO two adjacent are same.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
     "Max amount of toys that can be purchased with amount K": {
       "question_name": "Max amount of toys that can be purchased with amount K",
       "link": "",
@@ -3271,6 +3278,69 @@
     }
   },
   "String": {
+    "Recursively print all sentences that can be formed from list of word lists": {
+      "question_name": "Recursively print all sentences that can be formed from list of word lists",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Recursively print all sentences that can be formed from list of word lists\\Recursively print all sentences that can be formed from list of word lists.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Check if two given strings are isomorphic to each other": {
+      "question_name": "Check if two given strings are isomorphic to each other",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Check if two given strings are isomorphic to each other\\Check if two given strings are isomorphic to each other.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Transform One String to Another using Minimum Number of Given Operation": {
+      "question_name": "Transform One String to Another using Minimum Number of Given Operation",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Transform One String to Another using Minimum Number of Given Operation\\Transform One String to Another using Minimum Number of Given Operation.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Function to find Number of customers who could not get a computer": {
+      "question_name": "Function to find Number of customers who could not get a computer",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Function to find Number of customers who could not get a computer\\Function to find Number of customers who could not get a computer.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "String matching where one string contains wildcard characters": {
+      "question_name": "String matching where one string contains wildcard characters",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\String matching where one string contains wildcard characters\\String matching where one string contains wildcard characters.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Recursively remove all adjacent duplicates": {
+      "question_name": "Recursively remove all adjacent duplicates",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Recursively remove all adjacent duplicates\\Recursively remove all adjacent duplicates.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Find the smallest window in a string containing all characters of another string": {
+      "question_name": "Find the smallest window in a string containing all characters of another string",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Find the smallest window in a string containing all characters of another string\\Find the smallest window in a string containing all characters of another string.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Given a sequence of words, print all anagrams together": {
+      "question_name": "Given a sequence of words, print all anagrams together",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Given a sequence of words, print all anagrams together\\Given a sequence of words, print all anagrams together.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
+    "Minimum characters to be added at front to make string palindrome": {
+      "question_name": "Minimum characters to be added at front to make string palindrome",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\String\\Minimum characters to be added at front to make string palindrome\\Minimum characters to be added at front to make string palindrome.py",
+      "sub_questions": [],
+      "is_blank": false
+    },
     "Program to generate all possible valid IP addresses from given  string.": {
       "question_name": "Program to generate all possible valid IP addresses from given  string.",
       "link": "",
@@ -3985,6 +4055,38 @@
     }
   },
   "Sliding Window": {
+    "Write a program tofind the smallest window that contains all characters of string itself.": {
+      "question_name": "Write a program tofind the smallest window that contains all characters of string itself.",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Write a program tofind the smallest window that contains all characters of string itself\\Write a program tofind the smallest window that contains all characters of string itself.py",
+      "sub_questions": [
+        {
+          "sub_question_name": "Sliding Window and HashMap",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Write a program tofind the smallest window that contains all characters of string itself\\Sliding Window and HashMap.py"
+        },
+        {
+          "sub_question_name": "Naive",
+          "link": "",
+          "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\Write a program tofind the smallest window that contains all characters of string itself\\Naive.py"
+        }
+      ],
+      "is_blank": true
+    },
+    "SW-H:": {
+      "question_name": "SW-H:",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\SW-H\\SW-H.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
+    "-": {
+      "question_name": "-",
+      "link": "",
+      "path": "D:\\Projects\\DSA\\Data\\Sliding Window\\-\\-.py",
+      "sub_questions": [],
+      "is_blank": true
+    },
     "Smallest Subarray with sum greater than a given value": {
       "question_name": "Smallest Subarray with sum greater than a given value",
       "link": "",
