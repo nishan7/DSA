@@ -16,7 +16,7 @@ def triplets(nums, req_sum):
     ans = 0
 
     # We use 2 pointer after in range (i+1, n-1)
-    for i in range(n-1):
+    for i in range(n-2):
         l = i+1
         r = n-1
 
@@ -35,4 +35,4 @@ def triplets(nums, req_sum):
 
 
 nums = [5, 1, 3, 4, 7]
-triplets(nums, 12)
+triplets(nums, 12)  # 4

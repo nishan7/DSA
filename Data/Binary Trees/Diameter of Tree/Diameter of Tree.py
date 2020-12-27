@@ -4,19 +4,23 @@ Link: [link]()
 
 Diameter is the at the point where height(left subtree) + height(right subtree) is max
 
+Calculated similar as to calcuating height but keeping track of diameter at every time
+
 **O(n)**
 
 '''
 
 
-def diameter(root, max_diameter=0):
+def height(root, max_diameter):
     if root == None:
         return 0
 
-    max_diameter = max(max_diameter, 1+diameter(root.left,
-                                                max_diameter)+diameter(root.right, max_diameter))
+    left_height = height(root.left, max_diameter)
+    right_height = height(root.right, max_diameter)
 
-    return max_diameter
+    max_diameter[0] = max(max_diameter[0], 1 + left_height + right_height)
+
+    return 1 + max(left_height, right_height)
 
 
 class Node:
@@ -34,5 +38,7 @@ root.right = Node(3)
 root.left.left = Node(4)
 root.left.right = Node(5)
 
-print("Level Order Traversal of binary tree is -")
-print(diameter(root))   # [1, 3, 2, 5, 4]
+
+max_diameter = [-1]
+height(root, max_diameter)  
+print(max_diameter[0])  # 4

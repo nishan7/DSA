@@ -378,6 +378,7 @@ Count Sort
 Insertion Sort
 Bucket Sort
 Merge Sort
+.Merge Sort Index
 Quick Sort
 Radix Sort
 
@@ -844,7 +845,7 @@ Check if a Binary Tree is Heap
 
 
 ---!
-Median of a Stream
+Median of a Stream*
 .Insertion Sort
 Merge K Sorted Array
 Max amount of toys that can be purchased with amount K
