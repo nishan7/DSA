@@ -30,7 +30,7 @@ def max_diff(nums):
     sums = 0
 
     for i in range(n):
-        next_idx = (i+1) % n
+        next_idx = (i-1) % n
         sums += abs(temp[i] - temp[next_idx])
 
     print(sums)
@@ -49,4 +49,4 @@ def max_diff(nums):
 
 
 nums = [1, 2, 4, 8]
-max_diff(nums)
+max_diff(nums)   # 18

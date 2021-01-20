@@ -53,6 +53,8 @@ def open_config_file():
 
 @app.route('/<topic>/<id>')
 def open_path(topic, id):
+
+    # print("jsldf")
     global global_topic 
     global_topic = topic
     # print('Got here', topic, id)
@@ -78,9 +80,16 @@ def change_topic(topic):
 
 
 @app.route('/')
-def hello_world():
+def start():
     return render_template('main.html',
                            data={'questions': data[topics[0]], 'current_topic': topics[0], 'topics': topics})
+
+
+
+@app.route('/shutdown', methods=['GET'])
+def shutdown():
+    os.popen("/home/nishan/Desktop/project/DSA/runner.sh")
+
 
 
 if __name__ == '__main__':

@@ -74,6 +74,9 @@ Merge 2 sorted Arrays!
 .Merge part of merge sort (uses extra space)
 .Similar to insertion sort
 .Gap Method
+K-th element of two sorted Arrays!
+.Similar to Merge Sort's merge
+.Modified Merge Sort's merge
 Merge Intervals!
 .Sort and Check All
 .Sort and merge interval better
@@ -198,12 +201,16 @@ Sliding Window!
 First negative number in every window of size k
 .Brute
 Largest/Smallest Subarray of Size k
-Smallest Subarray with sum greater than a given value
+Smallest Subarray with sum greater than a given value!
+.Prefix Sum
+
+Minimum Size Subarray Sum
 -!
 SW-H:!
 Write a program tofind the smallest window that contains all characters of string itself.!
 .Naive
 .Sliding Window and HashMap
+
 
 
 
@@ -400,7 +407,8 @@ Implement Queue using 2 Stacks
 Implement Deques:
 
 
-
+# Queue
+Reverse First K elements of Queue
 
 
 # Stacks
@@ -447,10 +455,18 @@ Longest valid Parenthesis
 Iterative TOH
 
 
+
+
+
+
 # Two Pointers
 Count triplet with sum smaller than a given values!
 .Naive
 .Two Pointers
+Remove duplicates from sorted array!
+.Two Pointer
+Squares of a Sorted Array!
+.Two Pointer
 
 
 
@@ -498,6 +514,9 @@ Next Alphabetical Letter element
 Find the position of element in infinite sorted Array
 Square root of a Number!
 .Naive
+.BS
+Missing Number in Arithmetic Progression!
+.Linear 
 .BS
 Fixed Point (Value equal to index)
 
@@ -604,11 +623,23 @@ Singly LL is a palindrome or not?!
 .Reverse the list
 Deletion from a CLL
 Reverse a DLL.
+.Recursive
 Find pairs with a given sum in a DLL.
 Count triplets in a sorted DLL whose sum is equal to given value "X".
-Sort a "k" sorted Doubly Linked list.[Very IMP]
+Sort a "k" sorted Doubly Linked list.[Very IMP]*
 Rotate DLL by N nodes.
-Rotate a DLL in group of Given Size.[Very IMP]
+Rotate a DLL in group of Given Size.[Very IMP]*
+Flatten a Linked List!
+.Merge
+.Heap
+Sort a LL of 0's, 1's and 2's
+Clone a linked list with next and random pointer
+Merge K sorted Linked list
+Multiply 2 NO. represented by LL
+Delete Nodes which have a greater value on right side
+Segregate even and odd Nodes in a Linked List
+Program for n’th Node from the end of a Linked List
+Find the first NOn-repeating character from a stream of characters
 
 Find Length
 Third node from Last LL
@@ -736,7 +767,6 @@ Tree Traversal Spiral Form
 The diameter of a Binary Tree 
 LCA problem with an efficient solution
 Burn A Binary Tree from a Leaf
-
 Serialize and Deserialize a Binary tree
 
 
@@ -747,11 +777,6 @@ Serialize and Deserialize a Binary tree
 
 # Binary Tree
 Implementation of Search in BST
-Travesal
-.inorder
-.inorder iterative
-.preorder
-.postorder
 Insertion in BST 
 Deletion in BST 
 Floor in BST 
@@ -785,6 +810,9 @@ Coin Piles
 N meetings in a room
 Maximum Train in a Station
 Minimum Number of Platforms/trains/systems
+.Naive
+.Map
+.24 hour 
 Maximum Stocks if i stocks can be bought on i-th day
 Max and Min N candies
 Minimum Cash Flow

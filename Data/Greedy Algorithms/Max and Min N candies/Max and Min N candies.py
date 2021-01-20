@@ -17,19 +17,19 @@ def minmax(candies, k):
 
     # Min
     i = 0
-    j = n
+    j = n-1
     min_cost = 0
-    while i<j:
+    while i<=j:
         min_cost += candies[i]  # Add first(cheaper) candies to weight 
         i += 1
         j -= k     # Add last(expensive) candies and k-offer
 
     # Max
     i = n-1
-    j = -1
+    j = 0
     max_cost = 0
 
-    while i > j:
+    while i >= j:
         max_cost += candies[i]
         i -= 1
         j += k

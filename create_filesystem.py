@@ -159,7 +159,7 @@ def get_code_and_info_from_py(file_path):
     if file_path.endswith('py'):
         pattern = r"[\'\"]{3}(.*?)['\"]{3}(.*)"
     else:
-        print(file_path)
+        # print(file_path)
         pattern = r"/\*\s*.*?(.*)\*/\s*(.*)"
     # print(file_path)
     f = open(file_path).read()

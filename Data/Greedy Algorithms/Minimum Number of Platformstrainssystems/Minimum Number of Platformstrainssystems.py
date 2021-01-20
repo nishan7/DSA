@@ -9,13 +9,14 @@ Keep track of the maximum number of intervals that overlap with an interval. Fin
 **Greedy**: Sort all event and count the platfrom required
 1) If a train arrives to station (`platfrom_ctr += 1`)
 1) If a train departs from station (`platfrom_ctr -= 1`)
+
+**O(nlogn) O(1)**
 '''
 
 
 def min_plaform(arr, dept):
     arr.sort()
     dept.sort()
-    m = len(arr)
     n = len(dept)
 
     platform_ctr = 0

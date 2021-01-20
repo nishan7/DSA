@@ -12,7 +12,7 @@ from heapq import heappush, heappop
 
 
 def merge(arr):
-    k = len(arr)
+    k = len(arr)        # No of arrays
     n = len(arr[0])
 
     # iterator for every arrays, as index 0 is already in heap
@@ -35,9 +35,9 @@ def merge(arr):
 
 
 arr = [
-    [2, 6, 12, 34],
-    [1, 9, 20, 1000],
+    [2,  6,  12, 34],
+    [1,  9,  20, 1000],
     [23, 34, 90, 2000, 4000]
 ]
 size = [4, 4, 5]  # Size array can be used if the array is of different size
-merge(arr)
+merge(arr)  #  [1, 2, 6, 9, 12, 20, 23, 34, 34, 90, 1000, 2000, 4000]

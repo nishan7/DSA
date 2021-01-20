@@ -63,9 +63,13 @@
 
 {# TOPIC TITLE #}
 {#<a href="/config">||&nbsp&nbspConfig&nbsp&nbsp||</a>#}
-<a href="/config">&nbsp&nbsp||config||&nbsp&nbsp</a> {% for topic_name in data['topics'] %}
+<a href="/config">&nbsp&nbsp||config||&nbsp&nbsp</a> 
+<a href="/shutdown">&nbsp&nbsp||RESTART||&nbsp&nbsp</a> 
+
+{% for topic_name in data['topics'] %}
     <a href="/{{ topic_name }}">{{ topic_name }}&nbsp&nbsp&nbsp&nbsp</a> {% endfor %}
 {#{% for topic_name, questions in data.items() %}#}
+
 
 <h1>{{ data['current_topic'] }}</h1>
 {% for question_name, question in data['questions'].items() | reverse %}

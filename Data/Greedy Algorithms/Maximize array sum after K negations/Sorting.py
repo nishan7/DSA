@@ -25,4 +25,5 @@ def max_sum(arr, k):
 
 arr = [-2, 0, 5, -1, 2]
 k = 4
+
 print(max_sum(arr, k))     # 10
