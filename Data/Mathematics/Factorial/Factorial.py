@@ -3,3 +3,8 @@
 Link: [link]()
 
 '''
+
+def new():
+    pass
+
+asddfs

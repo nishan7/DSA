@@ -28,6 +28,15 @@ def rotate_right(arr):
 
     arr[0] = last
 
+def rotate_right(arr):
+    n = len(arr)
+
+    first = arr[0]
+    for i in range(n-1):
+        arr[i] = arr[i+1]
+    
+    arr[n-1] = first
+
 
 arr = [1, 2, 4, 6, 7]
 rotate_left(arr)

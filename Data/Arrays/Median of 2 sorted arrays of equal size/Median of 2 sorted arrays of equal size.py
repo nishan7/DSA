@@ -12,7 +12,7 @@ def median(nums1, nums2):
     m1 = -1
     m2 = -1
 
-    median = (m + n)/2
+    median = (m + n)//2
 
     i, j, k = 0, 0, 0
 

@@ -25,8 +25,8 @@ def cel(matrix, n):
     for i in range(n):
 
         # If any person doesn't
-        # know 'a' or 'a' doesn't
-        # know any person, return -1
+        # know 'a' or 'a'
+        # knows someone, return -1
         if ((i != a) and (matrix[a][i] or not(matrix[i][a]))):
             return -1
 

@@ -17,7 +17,8 @@ def min_plaform(arr, dept):
 
         for j in range(i+1, n):
 
-            if arr[j] <= arr[i] <= dept[j] or arr[i] <= arr[j] <= dept[i]:
+            # j train ko aaunu rw jaane ko beech ma i aauxa ki vice versa
+            if arr[j] <= arr[i] <= dept[j] or arr[i] <= arr[j] <= dept[i]:   
                 ctr += 1
 
         max_platfrom = max(max_platfrom, ctr)

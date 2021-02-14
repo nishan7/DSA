@@ -8,17 +8,22 @@ Link: [link]()
 2 loops
 '''
 
+
 def check_zero(arr):
     n = len(arr)
 
-    for i in range(1, n):
-        for j in range(i):
-            subarray = arr[j:i+1]
+    for i in range(n-1):
+        for j in range(i, n):
+            subarray = arr[i:j+1]
+            # print(subarray)
             if sum(subarray) == 0:
                 return True
     
     return False
 
 
+
+
 arr = [-3, 2, 3, 1, 6]    
+arr = [-3, 2,-2, 3, 1, 6]    
 print(check_zero(arr))

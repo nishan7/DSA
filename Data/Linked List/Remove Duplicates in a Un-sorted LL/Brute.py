@@ -40,24 +40,43 @@ print_ll(l)
 
 
 def duplicates(head):
-    # equalivlent to i -> (1,n) ; j -> (i)
-    i = head.next
-    j = head
-    prev = head  # We will delete, and not try to delete head
+    i = head
 
-    while i != None:
-        j = head
-
-        while j != i and j != None:
-            if i.data == j.data:
-                prev.next = i.next
-                # del i
-            j = j.next
-
-        print()
+    while i:
+        j = i.next
         prev = i
-        i = i.next
 
+        while j:
+            if j.data == i.data:
+                prev.next = j.next
+
+            prev = j
+            j = j.next
+            
+        i = i.next
 
 duplicates(l)
 print_ll(l)
+
+
+
+
+
+# def duplicates(head):
+#     # equalivlent to i -> (1,n) ; j -> (i)
+#     i = head.next
+#     j = head
+#     prev = head  # We will delete, and not try to delete head
+
+#     while i != None:
+#         j = head
+
+#         while j != i and j != None:
+#             if i.data == j.data:
+#                 prev.next = i.next
+#                 # del i
+#             j = j.next
+
+#         print()
+#         prev = i
+#         i = i.next

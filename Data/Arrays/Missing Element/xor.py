@@ -7,16 +7,15 @@ Link: [link]()
 
 - perform the xor of all the elements 
 
-**NOT WORKING*
 '''
 
 def find_missing(arr1, arr2):
     result = 0
     for number in arr1+arr2:
         result  ^= number
-        print(result)
+        # print(result)
     
     return result
 
-print(find_missing([1,2,3,4,5], [4,5,6,2,1]))
+print(find_missing([1,2,3,4,5], [4,5,2,1]))
 

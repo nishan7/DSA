@@ -25,11 +25,6 @@ def knapsack(n, value, wgt, W):
     return max_value, fractions
 
 
-
-
-
-
-
 n = 3
 value = [60,100,120]
 wgt = [10,20,30]

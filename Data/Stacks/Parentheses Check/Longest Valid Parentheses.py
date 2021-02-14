@@ -26,7 +26,6 @@ def paran_check(expr):
             closing = opening = 0 # Reset everything
 
         if closing == opening: # Valid
-            ctr += 1
             valid_ctr= max(valid_ctr, 2 * closing)
 
     return valid_ctr 

@@ -19,7 +19,7 @@ def spiral(matrix, i, j, r, c):
         print(matrix[i][k], end=" ")
     print("|", end=" ")
 
-    for k in range(1+i, c):
+    for k in range(1+i, r):
         print(matrix[k][c-1], end=" ")
     print("|", end=" ")
 
@@ -46,5 +46,7 @@ a = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]]
 R = 4      # 1 2 3 4 | 8 12 16 | 15 14 13 | 9 5 | 6 7 | 11 | 10 | |
 C = 4
 
-
+# a = [[-1, 1, 1], [1, -1, 1], [1, 1, 1]]
+# R = 3
+# C = 3
 spiral(a, 0, 0, R, C)

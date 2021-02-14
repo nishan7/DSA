@@ -3,6 +3,8 @@
 Link: [link]()
 
 **O(n) O(1)**
+
+NOTE: use something else if there are node apart from the list
 '''
 
 def detectLoop(self): 

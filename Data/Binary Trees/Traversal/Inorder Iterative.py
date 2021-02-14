@@ -31,7 +31,9 @@ def inorder(root):
         else:                     # No more nodes to left
             tos = stack.pop()          # Get the latest mid value
             print(tos.data, end=" ")   # print it
-            stack.append(tos.right)           # go right 
+            
+            if tos.right:
+                stack.append(tos.right)           # go right 
 
 # 2 3 4 5 6
 

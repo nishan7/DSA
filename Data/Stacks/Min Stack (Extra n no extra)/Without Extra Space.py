@@ -10,7 +10,7 @@ Only Variables are O(1)
 
 Using 2*x - min_element, to push flag
 
-
+!!Wrong
 # TODO: using list and push pop functions
 '''
 
@@ -36,7 +36,7 @@ class Stack:
             elif item < self.min_elem:
                 val = 2*item - self.min_elem
                 self.top += 1
-                self.items[self.top] = item
+                self.items[self.top] = val
                 self.min_elem = item
 
         else:
@@ -49,9 +49,14 @@ class Stack:
             ans = self.items[self.top]
             self.top -= 1
 
-            if ans == self.min_elem:  # It means the the stack has a flag
-                ans = 2 * ans - self.min_elem
+            if ans < self.min_elem:  # It means the the stack has a flag
+                res = self.min_elem
+                self.min_elem = 2 * self.min_elem - ans
+                return res
+
             return ans
+
+
 
     def get_min(self):
         if self.min_elem != -1:
@@ -72,6 +77,10 @@ s.push(2)
 s.push(2)
 s.display()
 s.pop()
+s.push(1)
+print(s.get_min())
+s.pop()
+print(s.get_min())
 s.push(3)
 
 print(s.get_min())

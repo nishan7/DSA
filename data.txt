@@ -39,12 +39,18 @@ Missing Element!
 .xor
 Find Missing and Duplicate Numbers in an Array (1 to N)!
 .Sort and Check
+.Multiple Sort and Check
 .Dictionary
 .Math
 .Xor
 .Swap Sort
 .Multiple Swap Sort
 Cyclically rotate an array by one.
+Rotate a Array by k!
+.Brute
+.Inplace Swap
+.Inplace Reverse
+
 Find the maximum and minimum element in an array!
 .Linear
 .Tournament
@@ -221,9 +227,10 @@ Spiral traversal on a Matrix!
 .Recursive
 .DFS Recursive
 Find median in a row wise sorted matrix
-Find row with maximum no. of 1's!
+Find row with maximum no. of 1s!
 .BS
 .Optimized
+.Single Scan
 Print elements in sorted order using row-column wise sorted matrix
 Maximum size rectangle
 Find a specific pair in matrix!
@@ -276,6 +283,7 @@ Permutations (IP-OP)!
 .Permutations with change case
 Generate all balanced Paranthesis
 Print N-bit binary numbers having more 1's than 0's for any Prefix
+Combinational Sum
 -!
 Tail Recursion
 Split a string in a possible ways according to the list
@@ -575,6 +583,8 @@ Topological Sorting
 .Kahn's BFS Based Algorithm
 .DFS Based Algorithm
 
+Number of islands using DFS
+
 
 
 
@@ -674,6 +684,8 @@ Height of Tree
 Diameter of Tree
 .Using DFS
 Mirror of Tree
+.Recursive
+.Iterative
 Traversal!
 .Inorder 
 .Inorder Iterative
@@ -703,6 +715,7 @@ Find minimum swaps required to convert a Binary tree into BST
 Check if Binary tree is Sum tree or NOT!
 .Naive
 .Tricky
+Subtree of Another Tree
 Check if all leaf NOdes are at same level or NOt
 Check if a Binary Tree contains duplicate subtrees of size 2 or more*
 Check if 2 trees are mirror or not
@@ -731,6 +744,7 @@ Find min and max value in a BST
 Find inorder successor and inorder predecessor in a BST
 Check if a tree is a BST or Not 
 Flatten BST
+Sorted Array to BST
 Populate inorder successor of all Nodes
 Find LCA  of 2 Nodes in a BST
 Construct BST from preorder traversal!
@@ -907,6 +921,7 @@ Unbounded Knapsack
 
 Unbounded Knapsack Variations
 .Rod cutting
+.Rod Cutting Recursive
 .Rod Cutting arr
 .Maximum ribbon cut
 Unbounded Knapsack CoinChange no of ways!
@@ -1037,9 +1052,49 @@ Inheritance!
 
 
 
+# System Design
+Lift
+Tic Tac Toe
+Snake and Ladder
+Ludo
+Vending Machine
+Book Shop
+Music Player
+Atm System
 
 
 # Misc
 LRU
 temp
 temp2
+
+# 1 Arrays and Strings
+Is Unique
+Check Permutation
+URLify
+Palindrome Permutation
+One Away
+String Compression
+Rotate Matrix
+Zero Matrix
+String Rotation
+
+# 2 LinkedList
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8 DP
+Magic Index!
+.Brute
+.Binary Search
+Stack of Boxes (Height)!
+.Recursive
+.DP
+# 9
+# 10
+# 11
+# 12
+# 13
+# 14

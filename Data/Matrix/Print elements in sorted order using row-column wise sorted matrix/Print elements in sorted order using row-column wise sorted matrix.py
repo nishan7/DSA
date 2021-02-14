@@ -12,16 +12,16 @@ Use merges sort wala merging
 def merge(a, b):
     temp = []
 
-    i, j, k = 0, 0, 0
+    i, j = 0, 0
     while i < len(a) and j < len(b):
         if a[i] < b[j]:
             temp.append(a[i])
             i += 1
-            k += 1
+
         else:
             temp.append(b[j])
             j += 1
-            k += 1
+
 
     temp += a[i:]
     temp += b[j:]

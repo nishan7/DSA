@@ -12,9 +12,9 @@ Link: [link]()
 def count(arr):
     n = len(arr)
     res = 1 # First element is considered
-
+    repeated = False
     for i in range(1, n):
-        repeated = False
+
 
         for j in range(0, i):
             if arr[i] == arr[j]:  # Item is repeated

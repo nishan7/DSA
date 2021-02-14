@@ -1,8 +1,13 @@
 '''
 #### Name:  Find a pair with difference k
 Link: [link]()
+
+<H1>TWO POINTERS!!!</h1>
+
 **Brute** 2 loops and compare **O(n)**
 **BS** Sort and do BS; check and increment values of low and high as needed
+
+
 
 '''
 

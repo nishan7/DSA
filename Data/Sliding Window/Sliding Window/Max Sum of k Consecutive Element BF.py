@@ -15,7 +15,7 @@ def subarray_sum(arr, k):
     n =  len(arr)
     min_ans = float('inf')
     max_ans = float('-inf')
-    for i in range(n-k+1):
+    for i in range(n-k):   # n-k+1 check later
             # print(arr[i:i+k])
             current_sum = sum(arr[i:i+k])
             min_ans = min(min_ans, current_sum)

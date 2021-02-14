@@ -5,6 +5,8 @@ Link: [link]()
 #### Sub_question_name: Minimum difference element in a sorted Array 
 Link: [link](https://www.youtube.com/watch?v=3RhGdmoF_ac&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2&index=15)
 
+Minimium difference if key is subtracted from the elements of the array
+
 Use similar apporach in floor ceil
 '''
 
